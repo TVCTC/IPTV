@@ -3,35 +3,35 @@
 # Update: 22.5.2022.
 # Source: https://github.com/Free-TV/IPTV/blob/master/playlist.m3u8
 #
-#EXTINF:0 status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Dokumentarni" tvg-country="US" tvg-id="travelchannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/Travel_Channel_logo.png?20130312153448",Travel Channel US
+#EXTINF:0 status="online" group-title="Dokumentarni" tvg-country="US" tvg-id="travelchannel.us" tvg-logo="",Travel Channel US
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/125
 #
-#EXTINF:0 status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Dokumentarni" tvg-country="AU" tvg-id="travelchannel.au" tvg-logo="http://t0.gstatic.com/images?q=tbn:ANd9GcQDxJfh-1Xm3zp51Na3p5kQ6eUQYm5pmo_VkuVC2UXM17iCxBQs",Travel Channel Australia
+#EXTINF:0 status="online" group-title="Dokumentarni" tvg-country="AU" tvg-id="travelchannel.au" tvg-logo="",Travel Channel Australia
 http://elattar-tv.org:8080/LUCKYG/22376727484869/67720
 #
-#EXTINF:0 status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Dokumentarni" tvg-country="UK" tvg-id="travelxp.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Travelxp-01.svg/revision/latest?cb=20200102195935" web="https://www.travelxp.tv/",travelxp
+#EXTINF:0 status="offline" group-title="Dokumentarni" tvg-country="UK" tvg-id="travelxp.uk" tvg-logo="",travelxp
 http://hd-max.org:8080/ollischnumbolli/mtaKKRWGwS/177507
 #
-#EXTINF:0 status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Glazba" tvg-country="IT" tvg-id="vh1.it" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/VH1_2013_%28Print%29.svg/revision/latest?cb=20220510162730",VH1 Italia
+#EXTINF:0 status="online" group-title="Glazbeni" tvg-country="IT" tvg-id="vh1.it" tvg-logo="-",VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #
-#EXTINF:0 status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Lokalni" tvg-country="SI" tvg-id="tvslovenija1.si" tvg-logo="-",TV Slovenija 1
+#EXTINF:0 status="online" group-title="Lokalni" tvg-country="SI" tvg-id="tvslovenija1.si" tvg-logo="-",TV Slovenija 1
 https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
 #
-#EXTINF:0 status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Lokalni" tvg-country="SI" tvg-id="tvslovenija2.si" tvg-logo="-",TV Slovenija 2
+#EXTINF:0 status="online" group-title="Lokalni" tvg-country="SI" tvg-id="tvslovenija2.si" tvg-logo="-",TV Slovenija 2
 https://21-rtvslo-tv-slo2-int.cdn.eurovisioncdn.net/playlist.m3u8
 #
-#EXTINF:0 status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Lokalni" tvg-country="SI" tvg-id="tvslovenija3.si" tvg-logo="-",TV Slovenija 3
+#EXTINF:0 status="online" group-title="Lokalni" tvg-country="SI" tvg-id="tvslovenija3.si" tvg-logo="-",TV Slovenija 3
 https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
 #
-#EXTINF:0 status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Lokalni" tvg-country="SI" tvg-id="tvkoper.si" tvg-logo="-",TV Koper Slovenija
+#EXTINF:0 status="online" group-title="Lokalni" tvg-country="SI" tvg-id="tvkoper.si" tvg-logo="-",TV Koper Slovenija
 https://27-rtvslo-tv-kp-int.cdn.eurovisioncdn.net/playlist.m3u8
 #
-#EXTINF:0 status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Lokalni" tvg-country="SI" tvg-id="tvmaribor.si" tvg-logo="-",TV Maribor Slovenija
+#EXTINF:0 status="online" group-title="Lokalni" tvg-country="SI" tvg-id="tvmaribor.si" tvg-logo="-",TV Maribor Slovenija
 https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8
 #
-#EXTINF:0 status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Lokalni" tvg-country="SI" tvg-id="mmctv.si" tvg-logo="-",MMC TV Slovenija
+#EXTINF:0 status="online" group-title="Lokalni" tvg-country="SI" tvg-id="mmctv.si" tvg-logo="-",MMC TV Slovenija
 https://29-rtvslo-tv-mmc-int.cdn.eurovisioncdn.net/playlist.m3u8
 #
-#EXTINF:0 status="online" user-agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36" group-title="Lokalni" tvg-country="AT" tvg-id="oe24.at" tvg-logo="-",oe24 Austrija
+#EXTINF:0 status="online" group-title="Lokalni" tvg-country="AT" tvg-id="oe24.at" tvg-logo="-",oe24 Austria
 https://varoe24live.sf.apa.at/oe24-live1/oe24.smil/chunklist_b1900000.m3u8
