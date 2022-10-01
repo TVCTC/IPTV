@@ -1,0 +1,530 @@
+#EXTM3U
+#
+# https://github.com/iptv-org/awesome-iptv 
+#
+# ***************** #
+# Dodano 1.5.2022. #
+# *************** #
+#
+#EXTINF:0,🌎 Nasa Live Stream - Earth From Space - Live Views from the ISS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=86YLFOog4GM
+# https://www.youtube.com/watch?v=86YLFOog4GM 
+#
+#EXTINF:0,Earth Views - Earth From Space Seen From The ISS
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=Y1qQZbTF8iQ
+# https://www.youtube.com/watch?v=Y1qQZbTF8iQ 
+#
+#EXTINF:0,4K Stunning Underwater Wonders of the Red Sea + Relaxing Music - Coral Reefs & Colorful Sea Life
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=tAuXNZ5TSlA
+# https://www.youtube.com/watch?v=tAuXNZ5TSlA
+#
+#EXTINF:O,House Music Live, 24/7 - Defected Broadcasting House - DJ Mixes, Playlists, Classic Sets, Radio! 🔊
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=xJfYQJIacYg
+# https://www.youtube.com/watch?v=xJfYQJIacYg
+#
+#EXTINF:0,Café del Mar Ibiza Chill House 24/7 (Deep House
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=rhIKkroZWoQ
+# https://www.youtube.com/watch?v=rhIKkroZWoQ 
+#
+#EXTINF:0,coffee shop radio // 24/7 lofi hip-hop beats
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=-5KAN9_CzSA
+# https://www.youtube.com/watch?v=-5KAN9_CzSA 
+#
+#EXTINF:0,Crime Time (roku)
+https://crimetimebamca-roku.amagi.tv/playlist.m3u8
+# https://github.com/iptv-org/iptv/blob/master/streams/us_roku.m3u 
+#
+#EXTINF:0,eScapes (xumo)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-escapes/CDN/master.m3u8
+# https://github.com/iptv-org/iptv/blob/master/streams/us_xumo.m3u 
+#
+#EXTINF:0,Tennis Channel (uk)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+# https://github.com/iptv-org/iptv/blob/master/streams/uk_samsung.m3u 
+#
+#EXTINF:0,Das Erste HD
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+# https://github.com/iptv-org/iptv/blob/master/streams/de.m3u 
+#
+#EXTINF:0,V2Beat TV (uk)
+https://abr.de1se01.v2beat.live/playlist.m3u8
+# https://www.vibee.tv/webpage-player/ 
+#
+# ****************** #
+# Dodano 29.4.2022. #
+# **************** #
+#
+#EXTINF:0,Crikvenica SVE
+file:///C:/Users/tvctc/Downloads/Crikvenica.m3u8
+#
+#EXTINF:0,Crikvenica 3 (CRNI MUL)
+https://wowza.3tcable.hr/CrikvaCrniMul/CrikvaCrniMul.stream/chunklist.m3u8
+#
+#EXTINF:0,Radio Kaštel
+https://kastel2020.radioca.st/stream
+#
+# ****************** #
+# Dodano 27.4.2022. #
+# **************** #
+#
+# ffmpeg -i “https://live-hls-web-aje.getaj.net/AJE/06.m3u8” -vframes 1 filename.png
+#
+#EXTINF:0,Al Jazeera UK
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+# https://www.aljazeera.com/live 
+#
+#EXTINF:0,CNN International
+https://live-media-montage.warnermediacdn.com/cnn-vxp/manifest/5e752658a523591e521f1449/master_de.m3u8
+# http://www.freeintertv.com/view/id-200/USA-1-0-1 
+#
+#EXTINF:0,Sportska Televizija
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x6wqqri
+#https://www.dailymotion.com/cdn/live/video/x6wqqri.m3u8?sec=vDbui2qKyb3RHrf12z1wNllIxwe6Zm_sd9vHsEnH1BGv5PQOeRDsERrKpgY-Bofk3SxlhCIBZlNdcVpAoBaK8A&dmTs=689266&dmV1st=DF4AF22EE9613AA8D25D6623BC902E89
+# https://sptv.hr/uzivo 
+#
+#EXTINF:0,A3 Bikini TV
+https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+# http://a3bikini.com/ 
+#
+#EXTINF:0,Hallmark Movies And More
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+# http://totv.org/tv-hallmark-movies 
+#
+#EXTINF:0,ConTV Anime
+https://dai2.xumo.com/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8
+# https://streamtest.in/logs/https-dai2-xumo-com-amagi_hls_data_xumo-host-contvanime-junction-cdn-playlist-m3u8-72f17c21-a5f8-43f5-98e5-9a549bd2e1be 
+#
+#EXTINF:0,Crackle
+https://crackle-plex.amagi.tv/playlist.m3u8
+# https://iptvm3u8world.blogspot.com/2021/05/movies-iptv-m3u-list-update-052021.html 
+#
+#EXTINF:0,Film Rise Crime
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
+# https://iptvm3u8world.blogspot.com/2021/05/movies-iptv-m3u-list-update-052021.html
+#
+#EXTINF:0,Capital TV
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/master.m3u8
+# http://totv.org/tv-capital 
+#
+#EXTINF:0,UN Web TV
+https://www.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/flavorIds/1_t99j24yi,1_bsogfzyt,1_xrg43i21,1_z7e3o1s4,1_2ts2t2ub,1_sde38jwg,1_vssxieer,1_n8kqal0r,1_euxa7unz,1_6sksh9uw,1_nb9nys26,1_sjxwiwyf,1_lek8y3vi,1_6peyxxs1,1_uqsq6d1f,1_olyis4ii,1_fvx0w97l,1_qdp4aoo2/a.m3u8
+# https://media.un.org/en/webtv 
+#
+#EXTINF:0,Olympic Channel
+https://ott-dai-oc.akamaized.net/OC1/master.m3u8?hdnts=exp=1651087536~acl=/*~hmac=7c1b0afd73c91c41d205e4268f693d8b6c955e32d9164688edd63ed89d360d3a
+# https://olympics.com/en/live/ 
+#
+#EXTINF:0,ACC DN (GOL TV US)
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
+# http://www.freeintertv.com/view/id-3315/USA-1-0-1 
+#
+#EXTINF:0,Stadium Sports
+https://bcovlive-a.akamaihd.net/79ebca453e6340dcb32b09707ce3fb82/us-east-1/5994000126001/f3d8696d886f4c3b9612132643061743/playlist_ssaiM.m3u8
+# https://watchstadium.com/ 
+#
+#EXTINF:0,EDGE Sport
+https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+# https://iptvm3u8world.blogspot.com/2021/05/usa-iptv-m3u-list-update-052021.html 
+# https://rakuten.tv/uk/live_channels/top-free-uk-rakuten-tv 
+#
+#EXTINF:0,SOAR
+https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
+# https://iptvm3u8world.blogspot.com/2021/05/usa-iptv-m3u-list-update-052021.html 
+#
+#EXTINF:0,Docurama
+https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
+# https://iptvm3u8world.blogspot.com/2021/05/documentary-iptv-m3u-list-update-052021.html 
+#
+#EXTINF:0,MagellanTV
+https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
+# https://iptvm3u8world.blogspot.com/2021/05/documentary-iptv-m3u-list-update-052021.html 
+#
+#EXTINF:0,Reelz
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
+# https://iptvm3u8world.blogspot.com/2021/05/documentary-iptv-m3u-list-update-052021.html 
+#
+#EXTINF:0,Beach TV
+http://stream04.amp.csulb.edu:1935/Beach_TV/smil:BeachTV.smil/playlist.m3u8
+https://iptvm3u8world.blogspot.com/2021/05/documentary-iptv-m3u-list-update-052021.html
+#
+#EXTINF:0,Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8
+# https://iptvm3u8world.blogspot.com/2021/05/music-iptv-m3u-list-update-052021.html 
+#
+#EXTINF:0,Dance Television One Best Of Dance TV
+https://eu-nl-012.worldcast.tv/dancetelevisionone/2/dancetelevisionone.m3u8
+# https://www.dancetv.net/ 
+#
+#EXTINF:0,Dance Television Two Deep House
+https://eu-nl-012.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+# https://www.dancetv.net/
+#
+#EXTINF:0,Dance Television Three Techno
+https://eu-nl-012.worldcast.tv/dancetelevisionthree/dancetelevisionthree.m3u8
+# https://www.dancetv.net/ 
+#
+#EXTINF:0,Dance Television Four Tech House
+https://eu-nl-012.worldcast.tv/dancetelevisionfour/dancetelevisionfour.m3u8
+# https://www.dancetv.net/
+#
+#EXTINF:0,Dance Television Five House
+https://eu-nl-012.worldcast.tv/dancetelevisionfive/dancetelevisionfive.m3u8
+# https://www.dancetv.net/
+#
+#EXTINF:0,Dance Television Six Minimal Deep Tech
+https://eu-nl-012.worldcast.tv/dancetelevisionsix/dancetelevisionsix.m3u8
+# https://www.dancetv.net/
+#
+#EXTINF:0,Dance Television Seven Mainstream EDM
+https://eu-nl-012.worldcast.tv/dancetelevisionseven/dancetelevisionseven.m3u8
+# https://www.dancetv.net/
+#
+#EXTINF:0,Dance Television Eight Downtempo
+https://eu-nl-012.worldcast.tv/dancetelevisioneight/dancetelevisioneight.m3u8
+# https://www.dancetv.net/
+#
+#EXTINF:0,Dance Television Nine Melodic Tech
+https://eu-nl-012.worldcast.tv/dancetelevisionnine/dancetelevisionnine.m3u8
+# https://www.dancetv.net/
+#
+#EXTINF:0,ZDF
+https://s6.hopslan.com/zdfc/index.m3u8?token=006496ac4b30e87cb96db5a0dd093c5e6668bd4b-d68411462e01d780aa088ffced96a185-1651083428-1651072628
+# http://www.freeintertv.com/view/id-2602 
+#
+# ****************** ##
+# Dodano 26.4.2022. #  #
+# **************** #    #
+#
+#EXTINF:0,RTL Televizija
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+# https://play.rtl.hr/rtl/uzivo 
+#
+#EXTINF:0,RTL 2
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
+# https://play.rtl.hr/rtl_2/uzivo  
+#
+#EXTINF:0,RTL Kockica
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+# https://play.rtl.hr/rtl_kockica/uzivo 
+#
+#EXTINF:0,OTV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x654gen
+#https://www.dailymotion.com/cdn/live/video/x654gen.m3u8?sec=B2sFVo8ONAyjC1D53MIKoSDV5-V3kWE2WfK-rxBGFfh_bPiNFNOeKAgDWR2yEYOguCmVLyd5IF_TYup4hCGB1w
+# https://www.otv.hr/live-jabuka-tv/ 
+#
+#EXTINF:0,Plava Vinkovačka
+http://free.fullspeed.tv/iptv-query?streaming-ip=http://free.fullspeed.tv/iptv-query?streaming-ip=
+#https://playback2.akamaized.net/streams/26611954_7977299_lsic4l7zse91zmfunjv_1/master.m3u8?dw=14400&hdnts=exp=1650991759~acl=/streams/26611954_7977299_lsic4l7zse91zmfunjv_1/master.m3u8*~hmac=f5677971e29850daf8839a0ca6729f0edb06384da4fa0cfeaf7922eade170468
+# https://livestream.com/plavatv/events/7977299 
+#
+#EXTINF:0,Osječka TV
+https://playback2.akamaized.net/streams/27681961_8347875_lsi4ddsbhww3p1cp3qx_1/master.m3u8?dw=14400&hdnts=exp=1650994654~acl=/streams/27681961_8347875_lsi4ddsbhww3p1cp3qx_1/master.m3u8*~hmac=ed91defcc4fd1a50a3ecddbabbef7d16c6dbc95d23bb2bdd02833afb84dfb8a8
+# https://www.squidtv.net/europe/croatia/croatia-008.html 
+#
+#EXTINF:0,Diadora TV
+https://diadoratv.stream:4443/web/diadora/manifest.mpd
+# https://diadora.tv/ 
+#
+#EXTINF:0,Libertas TV
+https://dcunilive2-lh.akamaihd.net/i/dclive_1@316664/master.m3u8?hdnea=st=1650995538~exp=1650995658~acl=/i/dclive_1@316664*~hmac=048d6ce89190e783f3a5ea6c23325f82bac03d306270257f59b0608af292f22e
+# https://libertas.tv/ 
+#
+#EXTINF:0,Televizija Banovina
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
+# https://www.radio-banovina.hr/televizija/ 
+#
+#EXTINF:0,Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+# https://balkans.aljazeera.net/live 
+#
+#EXTINF:0,Radio Deejay Hrvatska
+https://c2.hostingcentar.com/streams/radiodj/
+# http://deejay.hr/radio/ 
+#
+#EXTINF:0,One World Radio
+https://25643.live.streamtheworld.com/OWR_INTERNATIONAL_ADP/HLS/playlist.m3u8?uuid=12d9d22d-7226-4909-ab16-9cffe0cf91c2
+# https://www.tomorrowland.com/home/ 
+#
+# CLUBBING TV - potrebna prijava!
+# Chelsea FC Live!
+#
+#EXTINF:0,EDU TV (Srbija)
+https://5aa64ca8b95b8.streamlock.net:4443/edutv/edutelevizija/playlist.m3u8
+# http://www.jagledam.com/edu-tv-uzivo-stream 
+#
+#EXTINF:0,Maria Vision
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Italiasette/playlist.m3u8
+# http://www.jagledam.com/Maria-Vision-uzivo-stream 
+#
+#EXTINF:0,Televizija Jadran
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x670ug8
+#https://www.dailymotion.com/cdn/live/video/x670ug8.m3u8?sec=XlvnqckApwJ6RW93tZjAteTslilsDFPoOrSMmWeq1p5uRwXd9oNpXxluN7lQVllCmGQYy4DNWXvbKta95Y2i8g
+# https://tvjadran.hr/live-stream/ 
+#
+#EXTINF:0,TV Nova (Pula)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x694rtu
+#https://www.dailymotion.com/cdn/live/video/x694rtu.m3u8?sec=nh1s0seFbQ_mX3MiYLwdOsHDpun6cY969it5jJZ45kl6qQzbcdwHnGR-NEa-3Mt9o9-jhk4x1TD84uYFHPmMTA
+# https://am-01.dc3.dailymotion.com/vx694rtu 
+#
+#EXTINF:0,Slavonska Televizija
+http://89.201.163.244:8080/hls/hdmi.m3u8
+# http://live.stv.hr/ 
+#
+#EXTINF:0,Trend TV
+http://185.62.75.22:1935/trend/myStream/playlist.m3u8
+# https://trend.com.hr/live/ 
+#
+#EXTINF:0,Gorenjska TV (Slovenija)
+http://91.220.221.60/gtv_hls/gtv.m3u8
+# http://www.gtv.si/index.php?option=com_content&task=view&id=11361&Itemid=71 
+#
+# ********************** #
+# Ažurirano 20.04.2022. #
+# ******************** #
+#
+#EXTINF:0,Star Trek TV
+http://192.168.1.105:8080
+# VLC PLAYER STREAMING SETTINGS :sout=#transcode{vcodec=h264,scale=Auto,acodec=mp3,ab=128,channels=2,samplerate=44100,soverlay}:http{mux=ts,dst=:8080/} :no-sout-all :sout-keep
+#
+#EXTINF:0 tvg-id="NASATVPublic.us",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+# https://www.nasa.gov/multimedia/nasatv/#public
+#
+#EXTINF:0 tvg-id="NASATVMedia.us",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+# https://www.nasa.gov/multimedia/nasatv/#media
+#
+#EXTINF:0,ESA Web TV One
+http://api.new.livestream.com/accounts/362/events/6350312/broadcasts/230667347.m3u8
+# https://www.esa.int/ESA_Multimedia/ESA_Web_TV
+#
+#EXTINF:0,DW Deutsch
+https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+# https://www.dw.com/de/live-tv/s-100817
+#
+#EXTINF:0,DW Deutsch+
+https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+# https://www.dw.com/de/live-tv/s-100817?channel=4
+#
+#EXTINF:0,DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+# https://www.dw.com/en/live-tv/s-100825
+#
+#EXTINF:0,DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+# https://www.dw.com/es/tv-en-vivo/s-100837
+#
+#EXTINF:0,DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+# https://www.dw.com/de/live-tv/s-100817?channel=2
+#
+#EXTINF:0,Bloomberg TV+
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+# https://www.bloomberg.com/live/us
+#
+#EXTINF:0,Bloomberg TV
+https://www.bloomberg.com/media-manifest/streams/us.m3u8
+# https://www.bloomberg.com/live/us/btv
+#
+#EXTINF:0,Bloomberg TV Europe
+https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+# https://www.bloomberg.com/live/europe
+#
+#EXTINF:0,Bloomberg TV Asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+# https://www.bloomberg.com/live/asia
+#
+#EXTINF:0,Bloomberg TV Australia
+https://www.bloomberg.com/media-manifest/streams/aus.m3u8
+# https://www.bloomberg.com/live/australia
+#
+#EXTINF:0,ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+# https://abcnews.go.com/
+#
+#EXTINF:0,CBS News
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/692b0050-7982-4926-9591-632b337b6b37:GRQ/master.m3u8
+# https://www.cbsnews.com/live/
+#
+#EXTINF:0,CBS News Los Angeles
+https://dai.google.com/linear/hls/pa/event/K_2aA7OVRTacJJli1oSi8w/stream/9026cc12-e77f-4294-9b2a-0480b0be0203:GRQ/master.m3u8
+# https://www.cbsnews.com/live/
+#
+#EXTINF:0,CBS News Miami
+https://dai.google.com/linear/hls/event/_yODrBHESGSzPe3dqW4gGg/master.m3u8
+# https://www.cbsnews.com/live/
+#
+#EXTINF:0,CBS News New York
+https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+# https://www.cbsnews.com/live/
+#
+#EXTINF:0,ET Live
+https://dai.google.com/linear/hls/pa/event/xrVrJYTmTfitfXBQfeZByQ/stream/f707c9d6-3bc8-4abe-aea1-dc5ccb6b5b4b:GRQ/master.m3u8
+# https://www.cbsnews.com/live/
+#
+#EXTINF:0,NBC News Now
+https://nbcnews3.akamaized.net/hls/live/723429/NBCNewsNowa418c506/clear/hdntl=exp=1650493134~acl=/*~data=hdntl~hmac=6fd0483bc9b255a9c4760b61c5cff74d7b077e963bca7723353fe28a970a6fe0/VIDEO_0_6596000.m3u8
+# https://www.nbcnews.com/now
+#
+#EXTINF:0,N1 Hrvatska
+https://n1-bg-ku-r1-1.umn.cdn.united.cloud/stream/?i=FFpyacnyohowL3ymXItUeg&a=4h1ZHaPWaoQBxc7C2zvmgt_g83J4SClhuiL9V6GoqBwD3FTt3VXYea9NBiWck-v4jIPCPt-Tw7jHqDVOQva_1dggDezx25fIGfVAdi_TKRsG_qzW3ansen2a-qzh83CMtjYRm7O1oO20LVJOCAJdeda0vnuWu9-IxouDduuz-pBEKje75rOrWEvTB_0py0vABIzHw_HgcsEiSIP-xloXAFQAyy-NBL0YlATxWWn84oZaIHdzwi3-j33lsj1F34922uXwNU_H29JhrKPQ82Ah7w&sp=n1info&u=n1info&player=m3u8
+# https://hr.n1info.com/n1-tv-live-stream/
+#
+#EXTINF:0,Z1 Televizija
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/23ae13acb237431d9462cc3327163b2f/manifest.m3u8?p=79&s=1650347248&e=1650347368&h=688e02f4797c22888ee8fe7ce060ea7a
+# http://www.z1tv.hr/hr/livestream/
+#
+#EXTINF:0,Zapad TV
+https://stream.zapad.tv:3622/live/tvzapadlive.m3u8
+# https://zapad.tv/raspored/
+#
+#EXTINF:0,TV Slovenija 1
+https://di-br2e5p7r.a.eurovisionflow.net/slo1_int/slo1-abr_int.smil/playlist.m3u8
+# https://www.rtvslo.si/tv/vzivo/tvs1
+#
+#EXTINF:0,TV Slovenija 2
+https://di-br2e5p7r.a.eurovisionflow.net/slo2_int/slo2-abr_int.smil//playlist.m3u8
+# https://www.rtvslo.si/tv/vzivo/tvs2
+#
+#EXTINF:0,TV Slovenija 3
+https://di-br2e5p7r.a.eurovisionflow.net/slo3_int/slo3-abr_int.smil/playlist.m3u8
+# https://www.rtvslo.si/tv/vzivo/tvs3
+#
+#EXTINF:0,TV Koper Capodistria
+https://di-br2e5p7r.a.eurovisionflow.net/tvkp_int/tvkp-abr_int.smil/playlist.m3u8
+# https://www.rtvslo.si/tv-capodistria/tv-in-diretta
+#
+#EXTINF:0,TV Maribor
+https://di-br2e5p7r.a.eurovisionflow.net/tvmb_int/tvmb-abr_int.smil/playlist.m3u8
+# https://www.rtvslo.si/tv/vzivo/tvmb
+#
+#EXTINF:0,MMC TV
+https://di-br2e5p7r.a.eurovisionflow.net/mmctv_int/mmctv-abr_int.smil/playlist.m3u8
+# https://www.rtvslo.si/tv/vzivo/tvmmc
+#
+#EXTINF:0,One Music Television
+https://serve-first.folxplay.tv/folx/ch-3/master.m3u8
+# https://folxplay.tv/?chn=one
+#
+#EXTINF:0,Zwei Music Television
+https://serve-first.folxplay.tv/folx/ch-2/master.m3u8
+# https://folxplay.tv/?chn=zwei
+#
+#EXTINF:0,Folx Music Television
+https://serve-first.folxplay.tv/folx/ch-4/master.m3u8
+# https://folxplay.tv/?chn=mt
+#
+#EXTINF:0,Adria Music Television
+https://serve-first.folxplay.tv/folx/ch-1/master.m3u8
+# https://folxplay.tv/?chn=adria
+#
+#EXTINF:0,Folx Slovenija Music Television
+https://serve-first.folxplay.tv/folx/ch-5/master.m3u8
+# https://folxplay.tv/?chn=folx-slo
+#
+#EXTINF:0,One Adria Music Television
+https://serve-first.folxplay.tv/folx/ch-6/master.m3u8
+# https://folxplay.tv/?chn=one-adria
+#
+# Dodano 22.4.2022.
+#
+#EXTINF:0,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+# http://player.teleon.tv/us/channel/red-bull-tv-us 
+#
+#EXTINF:0,Stingray Naturescape
+https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+# https://m7lib.dev/api/v1/channels/player/?slug=stirr-stingray-naturescape-channel&back-button=true  
+#
+#EXTINF:0,Stingray Music Urban Beats
+https://stirr.ott-channels.stingray.com/133/master.m3u8
+# http://player.teleon.tv/us/channel/stingray-urban-beats-us 
+#
+#EXTINF:0,Stingray Music Everything 80s
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+# http://player.teleon.tv/us/channel/stingray-everything-80s-us 
+#
+#EXTINF:0,High Times TV
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c7e2503932c8368bdbfd875/playlist.m3u8
+# http://player.teleon.tv/us/channel/high-times-tv-us 
+#
+#EXTINF:0,Juce TV & Positiv
+https://playback.akamaized.net/streams/27460990_8973036_lsirv1wxempz7zxswth_1/master.m3u8?dw=14400&hdnts=exp=1650609405~acl=/streams/27460990_8973036_lsirv1wxempz7zxswth_1/master.m3u8*~hmac=2a191d468254932f296f56cb36f7908b14d9610aa37056ce01788b414233d788
+# http://player.teleon.tv/us/channel/juce-tv 
+#
+#EXTINF:0,GFN TV
+https://d3jxchypmk8fja.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/GFNTV-Plex/169.m3u8
+# http://player.teleon.tv/us/channel/gfn-tv-us 
+#
+#EXTINF:0,Cloudflare TV
+https://cloudflare.tv/hls/live.m3u8
+# http://player.teleon.tv/us/channel/cloudflare-tv-us 
+#
+#EXTINF:0,Darcizzle Offshore Fishing
+https://30a-tv.com/darcizzle.m3u8
+# http://player.teleon.tv/us/channel/30atv-fishing-offshore 
+#
+#EXTINF:0,Euronews
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/ewnsabren_eng.m3u8
+# https://www.distro.tv/live/euronews/ (Opera VPN)
+# Backup link: https://gintna100.tulix.tv/gin_live/euronews/20335386bc89cbe5a2c8a43f4504608a/62642d59/index.m3u8
+#
+#EXTINF:0,People TV
+https://peopletv-oando.akamaized.net/midroll/amagi_hls_data_peopletvA-peopletvoando/CDN/playlist.m3u8?deviceid=d747c434-ae3c-4cb4-97d5-3398add14205
+# https://peopletv.com/live/ 
+#
+#EXTINF:0,World Poker Tour
+https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
+# https://www.distro.tv/live/world-poker-tour/ (Opera VPN)
+#
+#EXTINF:0,IGN
+https://ign-plex.amagi.tv/amRdirect/us_privacy=1---&did=5ef195ad-e8b0-56fb-acf6-74337245526a&dnt=0&X-Plex-Token=Gx6GxxBcoC21UCzJus6b&channelId=5eea605474085f0040ddc77c&uid=1g1907lsg-d1n1-92-bqli-4vu4g8h8ul4/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
+# http://127.0.0.1:32400/web/index.html#!/media/tv.plex.provider.epg?source=home 
+#
+#EXTINF:0,Esports Television
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=461&live=1&app_bundle=com.plexapp.desktop&did=5ef195ad-e8b0-56fb-acf6-74337245526a&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=Gx6GxxBcoC21UCzJus6b&content_series=603da0d5d4e466002cdda4d1&custom4=plex&gdpr=1&device_make=Windows&device_model=Chrome&coppa=1&us_privacy=1---&custom_6=Gx6GxxBcoC21UCzJus6b&custom_7=603da0d5d4e466002cdda4d1
+# http://127.0.0.1:32400/web/index.html#!/media/tv.plex.provider.epg?source=home 
+#
+#EXTINF:0,True History
+https://linear-188.frequency.stream/dist/plex/188/hls/master/playlist.m3u8
+# http://127.0.0.1:32400/web/index.html#!/media/tv.plex.provider.epg?source=home 
+#
+#EXTINF:0,Space Channel
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6047e0d0a3c395002decfc9a/variant.m3u8?url=c308e2d146d01a94bff6e876e7a03c43-9f1a588f36fc6d2bfe6b66659bc29b19eebfc7e08e614ca589778cdda6d8de6dcad9149f9cfcec53f582826f06e8263e9a8ec6f0dfea5e529edfcef1d72be918524eb0497c4507e3066d0d5d4c34ce1c1780d9ca794f57cc6859cd50cd77fac548bfed701fc7a54a38ec560674c01d74&x-plex-token=Gx6GxxBcoC21UCzJus6b
+# http://127.0.0.1:32400/web/index.html#!/media/tv.plex.provider.epg?source=home
+#
+#EXTINF:0,The Boat Show
+https://e99f8e610cd24f40a2c5f054d33aad3a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheBoatShow/playlist.m3u8
+# http://127.0.0.1:32400/web/index.html#!/media/tv.plex.provider.epg?source=home 
+#
+#EXTINF:0,Miami TV
+https://gintna100.tulix.tv/gin_live/miamitv/c1801b7e23e331ae8698f1465c85a27e/62642af6/index.m3u8
+# http://www.giniko.com/watch.php?id=95 
+#
+#EXTINF:0,Fashion TV
+https://gintna100.tulix.tv/gin_live/fashiontv/d12f861a34963338ed15ff865cd21ca2/62642b80/index.m3u8
+# http://www.giniko.com/watch.php?id=15 
+#
+#EXTINF:0,Models Inc
+https://gintna100.tulix.tv/gin_live/modelinc/d5252d928676f6a36331832477537ffe/62642c3c/index.m3u8
+# http://www.giniko.com/watch.php?id=991 
+#
+#EXTINF:0,QVC Over The Air
+https://gintna100.tulix.tv/gin_live/qvctv-en/56f946863e994a9e65bbfad9090f0692/62642d20/index.m3u8
+# http://www.giniko.com/watch.php?id=202 
+#
+#EXTINF:0,Billiard TV
+https://d26ryn1s9vxsg0.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-main-hlsv3/BILLIARDTV_SCTE.m3u8?ads.caid=[ASSET_ID]&ads.csid=xumo_[PLATFORM]_triplebmediabilliard_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=1YNN&ads._fw_coppa=0&ads._fw_did=dpid:[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_length=[content_length]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=xumo&ads.xumo_contentId=[PROVIDER_ID]&ads.xumo_contentName=[PROVIDER_NAME]&ads.xumo_providerId=[PROVIDER_ID]&ads.xumo_providerName=[PROVIDER_NAME]&ads.channelId=99991627
+# https://pilab.dev/zerotv/channel/xumo-billiard-tv 
+#
+#EXTINF:0,Nosey
+https://d26ryn1s9vxsg0.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-main-hlsv3/playlist.m3u8?ads.channelId=99991366&ads.caid=nosey&ads.csid=xumo_[PLATFORM]_nosey_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=dpid:[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_length=&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=xumo&ads.xumo_contentId=1070&ads.xumo_contentName=Nosey&ads.xumo_providerId=1070&ads.xumo_providerName=Nosey
+# https://pilab.dev/zerotv/channel/xumo-nosey 
+#
+#EXTINF:0,Real Nosey
+https://d26ryn1s9vxsg0.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-main-hlsv3/playlist.m3u8?ads.channelId=99991388&ads.caid=nosey&ads.csid=xumo_[PLATFORM]_nosey_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=dpid:[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_length=&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=xumo&ads.xumo_contentId=1070&ads.xumo_contentName=Nosey&ads.xumo_providerId=1070&ads.xumo_providerName=Nosey
+# https://pilab.dev/zerotv/channel/xumo-real-nosey 
+#
+#EXTINF:0,Wild Earth
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-wildearth-xumo/CDN/master.m3u8
+# https://pilab.dev/zerotv/channel/xumo-wildearth
