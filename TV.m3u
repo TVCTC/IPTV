@@ -5,7 +5,7 @@ https://endpnt.com/hls/nasa4k/playlist.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="NASATVMedia.us",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
-#EXTINF:-1 tvg-id="ESAWebTVOne" tvg-logo="https://images2.imgbox.com/6a/66/X4sFlC0J_o.png",ESA Web TV One
+#EXTINF:-1 tvg-id="ESAWebTVOne.int" tvg-logo="https://images2.imgbox.com/6a/66/X4sFlC0J_o.png",ESA Web TV One
 https://livestreamserver.000webhostapp.com/
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://images2.imgbox.com/20/7b/VGzIq1Yd_o.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -28,7 +28,7 @@ https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/m
 #EXTINF:-1 tvg-id="TVKoperCapodistria.si",TV Koper Capodistria
 https://di-br2e5p7r.a.eurovisionflow.net/tvkp_int/tvkp-abr_int.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayNaturescape.ca",Stingray Naturescape
-https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
+https://1fdcca9feb9c4e75bda1c6b0339175fe.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_StingrayNaturescape/playlist.m3u8?ads.wurl_channel=480&ads.wurl_name=StingrayNaturescape&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 tvg-id="SpaceChannel.plex",Space Channel
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6047e0d0a3c395002decfc9a.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=LyPG7y2TWCLgs-4c7zdC
 #EXTINF:-1 tvg-id="EarthFromSpace.youtube",🌎 Nasa Live Stream - Earth From Space - Live Views from the ISS
