@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="NASATVUHD.us",NASA TV UHD
-https://endpnt.com/hls/nasa4k60/playlist.m3u8
+https://endpnt.com/hls/nasa4k/playlist.m3u8
 #EXTINF:-1 tvg-id="NASATVPublic.us",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 #EXTINF:-1 tvg-id="NASATVMedia.us",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="ESAWebTVOne",ESA Web TV One
-https://livestreamserver.000webhostapp.com/
+ tvg-logo="https://images2.imgbox.com/6a/66/X4sFlC0J_o.png"https://livestreamserver.000webhostapp.com/
 #EXTINF:-1 tvg-id="RedBullTV.at",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+ tvg-logo="https://images2.imgbox.com/20/7b/VGzIq1Yd_o.png"https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="TV538.nl",TV 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 #EXTINF:-1 tvg-id="RTLCroatia.hr",RTL Televizija
