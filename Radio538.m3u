@@ -1,85 +1,49 @@
 #EXTM3U
-#
-# ******************* #
-# Dodano 10.5.2022. #
-# *************** #
-# Izvorna stranica: https://www.hendrikjansen.nl/henk/streaming.html 
-#
-# https://www.538.nl/ 
-#
-#EXTINF:0 tvg-id="538TV.nl",538 TV
+#EXTINF:-1 tvg-id="TV538.nl",TV 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
-# https://images.ctfassets.net/avx85g85supt/kpOZg28LGdKFVUBUsLhf7/d80ac688e7f43791e9ceac1be381c6a0/2020-538-stationtile-radio538-1200x1200px.jpg 
-#
-#EXTINF:0,538 RADIO (AAC 96k)
+#EXTINF:-1 tvg-id="",RADIO 538 (AAC 96k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538AAC.aac
-#EXTINF:0,RADIO 538 (MP3 128k)
+#EXTINF:-1 tvg-id="",RADIO 538 (MP3 128k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3
-# https://images.ctfassets.net/avx85g85supt/7nqvIOJWiQkEEeJWI8aSVU/d178b57d6bdfcd17d9f3e94a66c373ad/2022-538-stationtile-radio538-website-1200x1200px.png 
-#
-#EXTINF:0,538 CLASSICS (AAC 96k)
+#EXTINF:-1 tvg-id="",538 CLASSICS (AAC 96k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08AAC.aac
-#EXTINF:0,538 CLASSICS (MP3 128k)
+#EXTINF:-1 tvg-id="",538 CLASSICS (MP3 128k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3
-# https://images.ctfassets.net/avx85g85supt/6AuUpvzXvjbPWItsbvKrbx/aedba4d691304ae5680c1236807c7da0/ccESsg50.png 
-#
-#EXTINF:0,538 DANCE DEPT. (AAC 96k)
+#EXTINF:-1 tvg-id="",538 DANCE DEPT. (AAC 96k)
 http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01AAC.aac
-#EXTINF:0,538 DANCE DEPT. (MP3 128k)
+#EXTINF:-1 tvg-id="",538 DANCE DEPT. (MP3 128k)
 http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3
-# https://images.ctfassets.net/avx85g85supt/dendmeHkrpdzuLzCnaZ5k/edce2020c3992be1dce816ec676fb96c/2022-538-stationtile-dancedept-website-1200x1200px.png 
-#
-#EXTINF:0,538 VERRÜCKTE (AAC 96k)
+#EXTINF:-1 tvg-id="",538 VERRÜCKTE (AAC 96k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21AAC.aac
-#EXTINF:0,538 VERRÜCKTE (MP3 128k)
+#EXTINF:-1 tvg-id="",538 VERRÜCKTE (MP3 128k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3
-# https://images.ctfassets.net/avx85g85supt/6HsZkYuCM0ftpLNN30YVv3/ef7b4ef41f7bc702630f13e36d68bef3/2022-538-stationtile-verruckte-website-1200x1200px.png  
-#
-#EXTINF:0,538 HITZONE (AAC 96k)
+#EXTINF:-1 tvg-id="",538 HITZONE (AAC 96k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11AAC.aac
-#EXTINF:0,538 HITZONE (MP3 128k)
+#EXTINF:-1 tvg-id="",538 HITZONE (MP3 128k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3
-# https://images.ctfassets.net/avx85g85supt/7c3foxhNi8uPdrqzP6CYWk/e5344d23b2e36eb149a381a534c4160d/2022-538-stationtile-hitzone-website-1200x1200px.png  
-#
-#EXTINF:0,538 IBIZA (AAC 96k)
+#EXTINF:-1 tvg-id="",538 IBIZA (AAC 96k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19AAC.aac
-#EXTINF:0,538 IBIZA (MP3 128k)
+#EXTINF:-1 tvg-id="",538 IBIZA (MP3 128k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR19.mp3
-# https://images.ctfassets.net/avx85g85supt/6bVT8hy8riSEeRi8qxP7l1/c920934437bea8a89c0861ccd9941e19/2022-538-stationtile-ibiza-website-1200x1200px.png  
-#
-#EXTINF:0,538 NON-STOP (AAC 96k)
+#EXTINF:-1 tvg-id="",538 NON-STOP (AAC 96k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09AAC.aac
-#EXTINF:0,538 NON-STOP (MP3 128k)
+#EXTINF:-1 tvg-id="",538 NON-STOP (MP3 128k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3
-# https://images.ctfassets.net/avx85g85supt/6fEXAAWlC5d7vWRqZjj05b/a7c8e318b9a1494de30d7fe60c848c37/2022-538-stationtile-nonstop-website-1200x1200px.png 
-#
-#EXTINF:0,538 PARTY (AAC 96k)
+#EXTINF:-1 tvg-id="",538 PARTY (AAC 96k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16AAC.aac
-#EXTINF:0,538 PARTY (MP3 128k)
+#EXTINF:-1 tvg-id="",538 PARTY (MP3 128k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3
-# https://images.ctfassets.net/avx85g85supt/2EY1S9q2BxSvsUJktkoa1H/48c3b30de80f3bba1282d7eda2ba47a6/2022-538-stationtile-party-website-1200x1200px.png 
-#
-#EXTINF:0,538 TOP 50 (AAC 96k)
+#EXTINF:-1 tvg-id="",538 TOP 50 (AAC 96k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13AAC.aac
-#EXTINF:0,538 TOP 50 (MP3 128k)
+#EXTINF:-1 tvg-id="",538 TOP 50 (MP3 128k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13.mp3
-# https://images.ctfassets.net/avx85g85supt/4R3ZOyEx6meyklC1Wxfkza/8b54c6ab15bc54312812b2be37ed0423/2022-538-stationtile-top50-website-1200x1200px.png 
-#
-#EXTINF:0,538 ZOMER (AAC 96k)
+#EXTINF:-1 tvg-id="",538 ZOMER (AAC 96k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR06AAC.aac
-#EXTINF:0,538 ZOMER (MP3 128k)
+#EXTINF:-1 tvg-id="",538 ZOMER (MP3 128k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR06.mp3
-# https://images.ctfassets.net/avx85g85supt/2yXBWgweouWNNs5nHckbUZ/2a40e1d0e2a7636cbed833eef64c5d9a/2022-538-stationtile-zomer-website-1200x1200px.png 
-#
-#EXTINF:0,Q-DANCE (AAC 96k)
+#EXTINF:-1 tvg-id="",Q-DANCE (AAC 96k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCEAAC.aac
-#
-#EXTINF:0,Q-DANCE (MP3 192k)
+#EXTINF:-1 tvg-id="",Q-DANCE (MP3 192k)
 https://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3
-# https://www.q-dance.com/en/ 
-# 
-#EXTINF:0,REAL HARDSTYLE (MP3 192k)
+#EXTINF:-1 tvg-id="",REAL HARDSTYLE (MP3 192k)
 http://server-23.stream-server.nl:8326/
-# https://realhardstyle.nl/ 
-# https://realhardstyle.nl/wp-content/uploads/2020/08/Real-Hardstyle-logo-White.png 
-#
