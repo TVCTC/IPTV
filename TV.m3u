@@ -29,7 +29,7 @@ https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/m
 https://di-br2e5p7r.a.eurovisionflow.net/tvkp_int/tvkp-abr_int.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="StingrayNaturescape.ca",Stingray Naturescape by Pluto TV
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5812bd9f249444e05d09cc4e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3e00889e-41ec-11ed-b330-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fbcb05ea-f4d2-47a4-aa64-43615b7b4953&userId=&serverSideAds=true
-#EXTINF:-1 tvg-id="SpaceChannel.plex",Space Channel by PLEX
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6047e0d0a3c395002decfc9a.m3u8?X-Plex-Client-Identifier=4f10a11d0159055e-com-plexapp-android&X-Plex-Client-Platform=Android&X-Plex-Token=LyPG7y2TWCLgs-4c7zdC
+#EXTINF:-1 tvg-id="SpaceChannel.com" tvg-logo="https://spacechannel.com/wp-content/uploads/2021/11/space-channel-white.png",Space Channel
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=540
 #EXTINF:-1 tvg-id="EarthFromSpace.youtube",🌎 Nasa Live Stream - Earth From Space - Live Views from the ISS by Youtube
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=86YLFOog4GM
