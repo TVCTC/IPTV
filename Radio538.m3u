@@ -47,3 +47,5 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCEAAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3
 #EXTINF:-1 tvg-id="",REAL HARDSTYLE (MP3 192k)
 http://server-23.stream-server.nl:8326/
+#EXTINF:-1 tvg-id="",One World Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.m3u8
