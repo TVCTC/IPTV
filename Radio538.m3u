@@ -49,3 +49,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3
 http://server-23.stream-server.nl:8326/
 #EXTINF:-1 tvg-id="",One World Radio
 https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.m3u8
+#EXTINF:-1 tvg-id="",BBC Radio 1
+https://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
+#EXTINF:-1 tvg-id="",BBC Radio 1 Dance
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/low/cfs/bbc_radio_one_dance.m3u8
+#EXTINF:-1 tvg-id="",BBC Radio 1 Relax
+https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/low/cfs/bbc_radio_one_relax.m3u8
