@@ -3,6 +3,10 @@
 # Update: 22.5.2022.
 # Source: https://github.com/Free-TV/IPTV/blob/master/playlist.m3u8
 #
+# https://karlovacki.hr/karlovacki-livevideo/
+#EXTINF:0 status="online" group-title="Lokalni" tvg-country="HR" tvg-id="karlovacki.hr" tvg-logo="",Karlovački Live TV
+https://pool.alter-media.hr:1936/prvikarlovacki/prvikarlovacki/playlist.m3u8
+#
 #EXTINF:0 status="online" group-title="Dokumentarni" tvg-country="US" tvg-id="travelchannel.us" tvg-logo="",Travel Channel US
 http://terrortv.iptvteam.org:8000/zESHH57Ovs/W5r8IaJ3X1/125
 #
