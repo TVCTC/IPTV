@@ -35,3 +35,5 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5812bd9f24944
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=540
 #EXTINF:-1 tvg-id="EarthFromSpace.youtube",🌎 Nasa Live Stream - Earth From Space - Live Views from the ISS by Youtube
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=86YLFOog4GM
+#EXTINF:-1 tvg-id="EarthTV.com",Earth TV
+https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge0/cdnedge/KN0KgQUAB4A/playlist.m3u8?token=EAIY6wE44qjITUCkIUgF.CgdlYXJ0aHR2EAEyC0tOMEtnUUdBQjM4OgtLTjBLZ1FVQUI0QQ.LeeukZ6FBWjLTcmLM9gJHBOCekL8jyE3MohGZWvWvHbVWHdPwUk9TG9gNXcIfNf_3euRfd5kpXrWeuCObko3cA&domain=www.earthtv.com
