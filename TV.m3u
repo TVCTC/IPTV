@@ -7,7 +7,7 @@ https://endpnt.com/hls/nasa-public/playlist.m3u8
 https://endpnt.com/hls/nasa-media/playlist.m3u8
 #EXTINF:-1 tvg-id="ESAWebTVOne.int" tvg-logo="https://images2.imgbox.com/6a/66/X4sFlC0J_o.png",ESA Web TV One
 https://livestreamserver.000webhostapp.com/
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://images2.imgbox.com/20/7b/VGzIq1Yd_o.png",Red Bull TV
+#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://thumbs2.imgbox.com/20/7b/VGzIq1Yd_t.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="Afrobeats247TV.uk" tvg-logo="https://thumbs2.imgbox.com/1c/8d/bTt7HVci_t.png",Afrobeats 24/7 TV
 https://stream.ecable.tv/afrobeats/index.m3u8
