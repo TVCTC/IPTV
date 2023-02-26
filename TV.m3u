@@ -9,6 +9,8 @@ https://endpnt.com/hls/nasa-media/playlist.m3u8
 https://livestreamserver.000webhostapp.com/
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://images2.imgbox.com/20/7b/VGzIq1Yd_o.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="Afrobeats247TV.uk" tvg-logo="https://images2.imgbox.com/1c/8d/bTt7HVci_o.png",Afrobeats 24/7 TV
+https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-id="TV538.nl",TV 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
 #EXTINF:-1 tvg-id="RTLCroatia.hr",RTL Televizija
