@@ -9,6 +9,8 @@ https://endpnt.com/hls/nasa-media/playlist.m3u8
 https://livestreamserver.000webhostapp.com/
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://thumbs2.imgbox.com/20/7b/VGzIq1Yd_t.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="Crime360.us" tvg-logo="https://thumbs2.imgbox.com/85/7d/Wut6FGg9_t.png",Crime 360
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6000a5a9e767980007b497ca/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfdf3f4-41ec-11ed-b8a6-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e19177ea-2d58-418e-bddc-63dce483b2ff&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="Afrobeats247TV.uk" tvg-logo="https://thumbs2.imgbox.com/1c/8d/bTt7HVci_t.png",Afrobeats 24/7 TV
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 tvg-id="TV538.nl",TV 538
