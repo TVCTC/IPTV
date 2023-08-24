@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="MaxSport1.hr" tvg-logo="http://xplatinmedia.com:8080/images/85512f11e91f4d1a1b4095e6c07cc047.png",Max Sport 1
-http://31.220.41.175:22461/u5xnqdb/ye8ken7/85286
+http://easyip.xyz:80/qtwtCpTW/fdyMmUb/49395
 #EXTINF:-1 tvg-id="MaxSport2.hr" tvg-logo="http://xplatinmedia.com:8080/images/cb867b460d5917775ed4b3c9bcfb5f18.png",Max Sport 2
-http://31.220.41.175:22461/u5xnqdb/ye8ken7/85287
-#EXTINF:-1 tvg-id="ArenaSport1.ba" tvg-logo="http://xplatinmedia.com:8080/images/f979a4e000fcafaaaea0113c2e013a56.png",Arena Sport 1 (BIH)
-http://31.220.41.175:22461/u5xnqdb/ye8ken7/85184
+http://easyip.xyz:80/qtwtCpTW/fdyMmUb/49396
 #EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://thumbs2.imgbox.com/51/ed/Mf3nzgHP_t.png",NASA TV Public
 https://endpnt.com/hls/nasa-public/playlist.m3u8
 #EXTINF:-1 tvg-id="NASATVMedia.us" tvg-logo="https://thumbs2.imgbox.com/81/46/bEYhGqOo_t.png",NASA TV Media
