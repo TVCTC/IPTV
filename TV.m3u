@@ -56,5 +56,7 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 # ## ### TV program: https://cmc.com.hr/program/
 #EXTINF:-1 tvg-id="KitTV.hr" tvg-logo="https://thumbs2.imgbox.com/d9/2d/PFJKoUol_t.png",Klape i Tambure TV
 https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 tvg-id="BanovinaTV.hr" tvg-logo="https://www.radio-banovina.hr/wp-content/uploads/2015/01/logo-152_000001.png",Banovina TV
+https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SportskaTelevizija.hr" tvg-logo="https://thumbs2.imgbox.com/c4/65/GulnSSuf_t.png",Sportska Televizija
 https://stream.agatin.hr:3087/live/sptvlive.m3u8
