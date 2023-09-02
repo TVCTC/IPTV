@@ -30,7 +30,7 @@ https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://thumbs2.imgbox.com/50/5e/VEFJ0qh3_t.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="CBSNewsMiami.us" tvg-logo="https://thumbs2.imgbox.com/d1/35/I5qwoZbg_t.png",CBS News Miami
-https://dai.google.com/linear/hls/pa/event/_yODrBHESGSzPe3dqW4gGg/stream/6e3c4fd4-de33-4e94-81d9-6d7b0d1cf135:BRU/variant/0158ab71c7f9b18dcef2c755aaecbd91/bandwidth/2899409.m3u8
+https://dai.google.com/linear/hls/pa/event/_yODrBHESGSzPe3dqW4gGg/stream/c5a7ef4b-2b4d-459b-b21b-df8252dc27c3:BRU/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-logo="https://thumbs2.imgbox.com/d6/2f/d6ilnDhv_t.png",CBS News New York
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 tvg-id="TVKoperCapodistria.si" tvg-logo="https://thumbs2.imgbox.com/c6/7a/rsQhhMrw_t.png",TV Koper Capodistria
