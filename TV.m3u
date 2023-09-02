@@ -56,3 +56,5 @@ https://stream.cmctv.hr:49998/cmc/live.m3u8
 # ## ### TV program: https://cmc.com.hr/program/
 #EXTINF:-1 tvg-id="KitTV.hr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/klape-i-tambure-tv-hr.png",Klape i tambure TV
 https://stream.cmctv.hr:49998/kit/live.m3u8
+#EXTINF:-1 tvg-id="SportskaTelevizija.hr" tvg-logo="https://sptv.hr/app/images/logo_white.png",Sportska Televizija
+https://stream.agatin.hr:3087/live/sptvlive.m3u8
