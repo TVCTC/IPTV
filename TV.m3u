@@ -53,5 +53,6 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d1puoz0n3annj1.cloudfront.net/Winter_Loop.mp4
 #EXTINF:-1 tvg-id="CmcTV.hr" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cmc_tv_hr.png",CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
+# ## ### TV program: https://cmc.com.hr/program/
 #EXTINF:-1 tvg-id="KitTV.hr" tvg-logo="https://www.lyngsat.com/logo/tv/kk/klape-i-tambure-tv-hr.png",Klape i tambure TV
 https://stream.cmctv.hr:49998/kit/live.m3u8
