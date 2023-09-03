@@ -10,7 +10,7 @@ https://endpnt.com/hls/nasa-media/playlist.m3u8
 #EXTINF:-1 tvg-id="NASATVUHD.us" tvg-logo="https://thumbs2.imgbox.com/4d/d5/NZVBUM7o_t.png",NASA TV UHD
 https://endpnt.com/hls/nasa4k/playlist.m3u8
 #EXTINF:-1 tvg-id="ESAWebTVOne.int" tvg-logo="https://thumbs2.imgbox.com/b3/fa/yGoBOxzK_t.png",ESA Web TV One
-https://script.google.com/macros/s/AKfycbx0oB8tT2b63lsXSbFvcEZRUY0rlmRpcrNjmlbEYuOIlZR5ewUG5rvAnjNO-2JBzSzB/exec
+https://livestreamserver.000webhostapp.com/
 #EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://thumbs2.imgbox.com/a8/24/QbYwUePw_t.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="Crime360.us" tvg-logo="https://thumbs2.imgbox.com/85/7d/Wut6FGg9_t.png",Crime 360
