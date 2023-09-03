@@ -39,8 +39,6 @@ https://script.google.com/macros/s/AKfycbzm12l_RxIjfh0CbkhzzGe0txTGlZd1r7pgiJRtK
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 #EXTINF:-1 tvg-id="SpaceChannel.com" tvg-logo="https://thumbs2.imgbox.com/64/ce/tDHwpEGT_t.png",Space Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=540
-#EXTINF:-1 tvg-id="EarthFromSpace.youtube",🌎 Nasa Live Stream - Earth From Space - Live Views from the ISS by Youtube
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=86YLFOog4GM
 #EXTINF:-1 tvg-id="EarthTV.com" tvg-logo="https://thumbs2.imgbox.com/60/ca/XkZxn5EY_t.png",Earth TV
 https://script.google.com/macros/s/AKfycbzcsZt-JbB7u40F3qpsD77goasu1Dk2wfvOoJpualOctuq9CIuaeHoESGi4h2Hlrfr7vA/exec
 #EXTINF:-1 tvg-id="CGTNNewsEnglish.cn" tvg-logo="https://thumbs2.imgbox.com/f8/fb/LQv47kUf_t.png",CGTN News English
@@ -53,10 +51,9 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d1puoz0n3annj1.cloudfront.net/Winter_Loop.mp4
 #EXTINF:-1 tvg-id="CmcTV.hr" tvg-logo="https://thumbs2.imgbox.com/74/72/2CSwvE73_t.png",CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-# ## ### TV program: https://cmc.com.hr/program/
 #EXTINF:-1 tvg-id="KitTV.hr" tvg-logo="https://thumbs2.imgbox.com/d9/2d/PFJKoUol_t.png",Klape i Tambure TV
 https://stream.cmctv.hr:49998/kit/live.m3u8
-#EXTINF:-1 tvg-id="BanovinaTV.hr" tvg-logo="https://www.radio-banovina.hr/wp-content/uploads/2015/01/logo-152_000001.png",Banovina TV
+#EXTINF:-1 tvg-id="BanovinaTV.hr" tvg-logo="https://thumbs2.imgbox.com/c0/c1/nBgf2cCh_t.png",Banovina TV
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="SportskaTelevizija.hr" tvg-logo="https://thumbs2.imgbox.com/c4/65/GulnSSuf_t.png",Sportska Televizija
 https://stream.agatin.hr:3087/live/sptvlive.m3u8
