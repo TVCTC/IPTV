@@ -1,59 +1,59 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MaxSport1.hr" tvg-logo="https://thumbs2.imgbox.com/7d/e5/JV0UPzCA_t.png",Max Sport 1
+#EXTINF:-1 group-title="Sport" tvg-name="Max Sport 1" tvg-id="MaxSport1.hr" tvg-logo="https://thumbs2.imgbox.com/7d/e5/JV0UPzCA_t.png",Max Sport 1
 http://31.220.41.175:22461/52f4hqf/8v5dkzx/85286
-#EXTINF:-1 tvg-id="MaxSport2.hr" tvg-logo="https://thumbs2.imgbox.com/40/44/8HYTd0co_t.png",Max Sport 2
+#EXTINF:-1 group-title="Sport" tvg-name="Max Sport 2" tvg-id="MaxSport2.hr" tvg-logo="https://thumbs2.imgbox.com/40/44/8HYTd0co_t.png",Max Sport 2
 http://31.220.41.175:22461/52f4hqf/8v5dkzx/85287
-#EXTINF:-1 tvg-id="NASATVPublic.us" tvg-logo="https://thumbs2.imgbox.com/51/ed/Mf3nzgHP_t.png",NASA TV Public
+#EXTINF:-1 group-title="Documentary" tvg-name="NASA TV Public" tvg-id="NASATVPublic.us" tvg-logo="https://thumbs2.imgbox.com/51/ed/Mf3nzgHP_t.png",NASA TV Public
 https://endpnt.com/hls/nasa-public/playlist.m3u8
-#EXTINF:-1 tvg-id="NASATVMedia.us" tvg-logo="https://thumbs2.imgbox.com/81/46/bEYhGqOo_t.png",NASA TV Media
+#EXTINF:-1 group-title="Documentary" tvg-name="NASA TV Media" tvg-id="NASATVMedia.us" tvg-logo="https://thumbs2.imgbox.com/81/46/bEYhGqOo_t.png",NASA TV Media
 https://endpnt.com/hls/nasa-media/playlist.m3u8
-#EXTINF:-1 tvg-id="NASATVUHD.us" tvg-logo="https://thumbs2.imgbox.com/4d/d5/NZVBUM7o_t.png",NASA TV UHD
+#EXTINF:-1 group-title="Documentary" tvg-name="NASA TV UHD" tvg-id="NASATVUHD.us" tvg-logo="https://thumbs2.imgbox.com/4d/d5/NZVBUM7o_t.png",NASA TV UHD
 https://endpnt.com/hls/nasa4k/playlist.m3u8
-#EXTINF:-1 tvg-id="ESAWebTVOne.int" tvg-logo="https://thumbs2.imgbox.com/b3/fa/yGoBOxzK_t.png",ESA Web TV One
+#EXTINF:-1 group-title="Documentary" tvg-name="ESA Web TV One" tvg-id="ESAWebTVOne.int" tvg-logo="https://thumbs2.imgbox.com/b3/fa/yGoBOxzK_t.png",ESA Web TV One
 https://livestreamserver.000webhostapp.com/
-#EXTINF:-1 tvg-id="RedBullTV.at" tvg-logo="https://thumbs2.imgbox.com/a8/24/QbYwUePw_t.png",Red Bull TV
+#EXTINF:-1 group-title="Sport" tvg-name="Red Bull TV" tvg-id="RedBullTV.at" tvg-logo="https://thumbs2.imgbox.com/a8/24/QbYwUePw_t.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="Crime360.us" tvg-logo="https://thumbs2.imgbox.com/85/7d/Wut6FGg9_t.png",Crime 360
+#EXTINF:-1 group-title="Documentary" tvg-name="Crime 360" tvg-id="Crime360.us" tvg-logo="https://thumbs2.imgbox.com/85/7d/Wut6FGg9_t.png",Crime 360
 https://dab88d35ef5b44ec99be60adef855bf2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Crime360/playlist.m3u8?ads.wurl_channel=393&ads.wurl_name=Crime360&ads.psid=%7BPSID%7D&ads.us_privacy=1YNY&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
-#EXTINF:-1 tvg-id="Afrobeats247TV.uk" tvg-logo="https://thumbs2.imgbox.com/fe/a3/BlhRq7Rl_t.png",Afrobeats 24/7 TV
+#EXTINF:-1 group-title="Music" tvg-name="Afrobeats 24/7 TV" tvg-id="Afrobeats247TV.uk" tvg-logo="https://thumbs2.imgbox.com/fe/a3/BlhRq7Rl_t.png",Afrobeats 24/7 TV
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 tvg-id="TV538.nl" tvg-logo="https://thumbs2.imgbox.com/6f/32/Fkdh3BzK_t.png",TV 538
+#EXTINF:-1 group-title="Music" tvg-name="Radio 538 TV" tvg-id="TV538.nl" tvg-logo="https://thumbs2.imgbox.com/6f/32/Fkdh3BzK_t.png",TV 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
-#EXTINF:-1 tvg-id="RTLCroatia.hr" tvg-logo="https://thumbs2.imgbox.com/46/6a/ksoGYSF1_t.png",RTL Televizija
+#EXTINF:-1 group-title="Croatia" tvg-name="RTL Televizija" tvg-id="RTLCroatia.hr" tvg-logo="https://thumbs2.imgbox.com/46/6a/ksoGYSF1_t.png",RTL Televizija
 https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
-#EXTINF:-1 tvg-id="RTL2Croatia.hr" tvg-logo="https://thumbs2.imgbox.com/c1/ba/aKZfNUHw_t.png",RTL 2
+#EXTINF:-1 group-title="Croatia" tvg-name="RTL 2" tvg-id="RTL2Croatia.hr" tvg-logo="https://thumbs2.imgbox.com/c1/ba/aKZfNUHw_t.png",RTL 2
 https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
-#EXTINF:-1 tvg-id="RTLKockica.hr" tvg-logo="https://thumbs2.imgbox.com/5a/c8/ROo27S9T_t.png",RTL Kockica
+#EXTINF:-1 group-title="Croatia" tvg-name="RTL Kockica" tvg-id="RTLKockica.hr" tvg-logo="https://thumbs2.imgbox.com/5a/c8/ROo27S9T_t.png",RTL Kockica
 https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
-#EXTINF:-1 tvg-id="AlJazeeraBalkans.qa" tvg-logo="https://thumbs2.imgbox.com/7e/2e/EnmzsW0o_t.png",Al Jazeera Balkans
+#EXTINF:-1 group-title="News" tvg-name="Al Jazeera Balkans" tvg-id="AlJazeeraBalkans.qa" tvg-logo="https://thumbs2.imgbox.com/7e/2e/EnmzsW0o_t.png",Al Jazeera Balkans
 https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
-#EXTINF:-1 tvg-id="DWEnglish.de" tvg-logo="https://thumbs2.imgbox.com/50/5e/VEFJ0qh3_t.png",DW English
+#EXTINF:-1 group-title="News" tvg-name="DW English" tvg-id="DWEnglish.de" tvg-logo="https://thumbs2.imgbox.com/50/5e/VEFJ0qh3_t.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 tvg-id="CBSNewsMiami.us" tvg-logo="https://thumbs2.imgbox.com/d1/35/I5qwoZbg_t.png",CBS News Miami
+#EXTINF:-1 group-title="News" tvg-name="CBS News Miami" tvg-id="CBSNewsMiami.us" tvg-logo="https://thumbs2.imgbox.com/d1/35/I5qwoZbg_t.png",CBS News Miami
 https://dai.google.com/linear/hls/pa/event/_yODrBHESGSzPe3dqW4gGg/stream/c5a7ef4b-2b4d-459b-b21b-df8252dc27c3:BRU/master.m3u8
-#EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-logo="https://thumbs2.imgbox.com/d6/2f/d6ilnDhv_t.png",CBS News New York
+#EXTINF:-1 group-title="News" tvg-name="CBS News New York" tvg-id="CBSNewsNewYork.us" tvg-logo="https://thumbs2.imgbox.com/d6/2f/d6ilnDhv_t.png",CBS News New York
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-#EXTINF:-1 tvg-id="TVKoperCapodistria.si" tvg-logo="https://thumbs2.imgbox.com/c6/7a/rsQhhMrw_t.png",TV Koper Capodistria
+#EXTINF:-1 group-title="Slovenia" tvg-name="TV Koper Capodistria" tvg-id="TVKoperCapodistria.si" tvg-logo="https://thumbs2.imgbox.com/c6/7a/rsQhhMrw_t.png",TV Koper Capodistria
 https://script.google.com/macros/s/AKfycbzm12l_RxIjfh0CbkhzzGe0txTGlZd1r7pgiJRtKiwpMAytPhY0xMMlef-TNRjOLP_S/exec
-#EXTINF:-1 tvg-id="StingrayNaturescape.stirr" tvg-logo="https://thumbs2.imgbox.com/91/de/FjqG802n_t.png",Stingray Naturescape by STIRR
+#EXTINF:-1 group-title="Lounge" tvg-name="Stingray Naturescape" tvg-id="StingrayNaturescape.stirr" tvg-logo="https://thumbs2.imgbox.com/91/de/FjqG802n_t.png",Stingray Naturescape by STIRR
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
-#EXTINF:-1 tvg-id="SpaceChannel.com" tvg-logo="https://thumbs2.imgbox.com/64/ce/tDHwpEGT_t.png",Space Channel
+#EXTINF:-1 group-title="Entertainmnet" tvg-name="Space Channel" tvg-id="SpaceChannel.com" tvg-logo="https://thumbs2.imgbox.com/64/ce/tDHwpEGT_t.png",Space Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=540
-#EXTINF:-1 tvg-id="EarthTV.com" tvg-logo="https://thumbs2.imgbox.com/60/ca/XkZxn5EY_t.png",Earth TV
+#EXTINF:-1 group-title="Lounge" tvg-name="Earth TV" tvg-id="EarthTV.com" tvg-logo="https://thumbs2.imgbox.com/60/ca/XkZxn5EY_t.png",Earth TV
 https://script.google.com/macros/s/AKfycbzcsZt-JbB7u40F3qpsD77goasu1Dk2wfvOoJpualOctuq9CIuaeHoESGi4h2Hlrfr7vA/exec
-#EXTINF:-1 tvg-id="CGTNNewsEnglish.cn" tvg-logo="https://thumbs2.imgbox.com/f8/fb/LQv47kUf_t.png",CGTN News English
+#EXTINF:-1 group-title="News" tvg-name="CGTN News English" tvg-id="CGTNNewsEnglish.cn" tvg-logo="https://thumbs2.imgbox.com/f8/fb/LQv47kUf_t.png",CGTN News English
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://thumbs2.imgbox.com/36/8a/KCiEboax_t.png",CGTN Documentary
+#EXTINF:-1 group-title="Documentary" tvg-name="CGTN Documentary" tvg-id="CGTNDocumentary.cn" tvg-logo="https://thumbs2.imgbox.com/36/8a/KCiEboax_t.png",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 tvg-id="DeLuxeLoungeHD.int" tvg-logo="https://thumbs2.imgbox.com/00/00/5PSiozk9_t.png",DeLuxe Lounge HD
+#EXTINF:-1 group-title="Lounge" tvg-name="DeLuxe Lounge HD" tvg-id="DeLuxeLoungeHD.int" tvg-logo="https://thumbs2.imgbox.com/00/00/5PSiozk9_t.png",DeLuxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-#EXTINF:-1 tvg-id="OneWorldTV.be" tvg-logo="https://thumbs2.imgbox.com/cf/51/S8JOqlzr_t.png",One World TV
+#EXTINF:-1 group-title="Music" tvg-name="One World TV" tvg-id="OneWorldTV.be" tvg-logo="https://thumbs2.imgbox.com/cf/51/S8JOqlzr_t.png",One World TV
 https://d1puoz0n3annj1.cloudfront.net/Winter_Loop.mp4
-#EXTINF:-1 tvg-id="CmcTV.hr" tvg-logo="https://thumbs2.imgbox.com/74/72/2CSwvE73_t.png",CMC TV
+#EXTINF:-1 group-title="Music" tvg-name="CMC TV" tvg-id="CmcTV.hr" tvg-logo="https://thumbs2.imgbox.com/74/72/2CSwvE73_t.png",CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
-#EXTINF:-1 tvg-id="KitTV.hr" tvg-logo="https://thumbs2.imgbox.com/d9/2d/PFJKoUol_t.png",Klape i Tambure TV
+#EXTINF:-1 group-title="Music" tvg-name="Klape i Tambure TV" tvg-id="KitTV.hr" tvg-logo="https://thumbs2.imgbox.com/d9/2d/PFJKoUol_t.png",Klape i Tambure TV
 https://stream.cmctv.hr:49998/kit/live.m3u8
-#EXTINF:-1 tvg-id="BanovinaTV.hr" tvg-logo="https://thumbs2.imgbox.com/c0/c1/nBgf2cCh_t.png",Banovina TV
+#EXTINF:-1 group-title="Music" tvg-name="Banovina TV" tvg-id="BanovinaTV.hr" tvg-logo="https://thumbs2.imgbox.com/c0/c1/nBgf2cCh_t.png",Banovina TV
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="SportskaTelevizija.hr" tvg-logo="https://thumbs2.imgbox.com/c4/65/GulnSSuf_t.png",Sportska Televizija
+#EXTINF:-1 group-title="Sport" tvg-name="Sportska Televizija" tvg-id="SportskaTelevizija.hr" tvg-logo="https://thumbs2.imgbox.com/c4/65/GulnSSuf_t.png",Sportska Televizija
 https://stream.agatin.hr:3087/live/sptvlive.m3u8
