@@ -49,7 +49,7 @@ https://livestreamserver.000webhostapp.com/mmctv/
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 #EXTINF:-1 group-title="Entertainmnet" tvg-name="Space Channel" tvg-id="SpaceChannel.com" tvg-logo="https://thumbs2.imgbox.com/64/ce/tDHwpEGT_t.png",Space Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=540
-#EXTINF:-1 group-title="Lounge" tvg-name="Earth TV" tvg-id="EarthTV.com" tvg-logo="https://thumbs2.imgbox.com/60/ca/XkZxn5EY_t.png",Earth TV
+#EXTINF:-1 group-title="Webcam" tvg-name="Earth TV" tvg-id="EarthTV.com" tvg-logo="https://thumbs2.imgbox.com/60/ca/XkZxn5EY_t.png",Earth TV
 https://livestreamserver.000webhostapp.com/earthtv/
 #EXTINF:-1 group-title="News" tvg-name="CGTN News English" tvg-id="CGTNNewsEnglish.cn" tvg-logo="https://thumbs2.imgbox.com/f8/fb/LQv47kUf_t.png",CGTN News English
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
@@ -67,3 +67,5 @@ https://stream.cmctv.hr:49998/kit/live.m3u8
 https://pool.alter-media.hr:1936/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="Sport" tvg-name="Sportska Televizija" tvg-id="SportskaTelevizija.hr" tvg-logo="https://thumbs2.imgbox.com/c4/65/GulnSSuf_t.png",Sportska Televizija
 https://stream.agatin.hr:3087/live/sptvlive.m3u8
+#EXTINF:-1 group-title="Webcam" tvg-name="Live Webcam Crikvenica" tvg-id="Crikvenica.cam" tvg-logo="https://thumbs2.imgbox.com/60/ca/XkZxn5EY_t.png",Live Webcam Crikvenica
+https://cdn-004.whatsupcams.com/hls/hr_crikvenica1.m3u8
