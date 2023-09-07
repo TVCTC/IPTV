@@ -3,6 +3,16 @@
 http://easyip.xyz:80/rYa4WJk4/cmzCDZq/49395
 #EXTINF:-1 group-title="Sport" tvg-name="Max Sport 2" tvg-id="MaxSport2.hr" tvg-logo="https://thumbs2.imgbox.com/40/44/8HYTd0co_t.png",Max Sport 2
 http://easyip.xyz:80/rYa4WJk4/cmzCDZq/49396
+#EXTINF:-1 group-title="Documentary" tvg-name="Crime & Investigation HD" tvg-id="CrimeAndInvestigation.hr" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/crime_investigation_2020_250x250.png",Crime & Investigation HD
+http://easyip.xyz:80/rYa4WJk4/cmzCDZq/49261
+#EXTINF:-1 group-title="Documentary" tvg-name="Doku TV" tvg-id="DokuTV.hr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/doku-tv-hr.png",Doku TV
+http://easyip.xyz:80/rYa4WJk4/cmzCDZq/49272
+#EXTINF:-1 group-title="Documentary" tvg-name="DocuBox HD" tvg-id="DocuBox.hr" tvg-logo="http://www.spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png",DocuBox HD
+http://easyip.xyz:80/rYa4WJk4/cmzCDZq/49271
+#EXTINF:-1 group-title="Entertainment" tvg-name="Fox Movies HD" tvg-id="FoxMovies.hr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_movies_us.png",Fox Movies HD
+http://easyip.xyz:80/rYa4WJk4/cmzCDZq/49299
+#EXTINF:-1 group-title="Documentary" tvg-name="ID Discovery HD" tvg-id="IDDiscovery.hr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/375px-InvestigationDiscoveryLogo2020.svg.png",ID Discovery HD
+http://easyip.xyz:80/rYa4WJk4/cmzCDZq/49348
 #EXTINF:-1 group-title="Documentary" tvg-name="NASA TV Public" tvg-id="NASATVPublic.us" tvg-logo="https://thumbs2.imgbox.com/51/ed/Mf3nzgHP_t.png",NASA TV Public
 https://endpnt.com/hls/nasa-public/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-name="NASA TV Media" tvg-id="NASATVMedia.us" tvg-logo="https://thumbs2.imgbox.com/81/46/bEYhGqOo_t.png",NASA TV Media
