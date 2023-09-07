@@ -13,6 +13,12 @@ http://easyip.xyz:80/rYa4WJk4/cmzCDZq/49271
 http://easyip.xyz:80/rYa4WJk4/cmzCDZq/49299
 #EXTINF:-1 group-title="Documentary" tvg-name="ID Discovery HD" tvg-id="IDDiscovery.hr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/375px-InvestigationDiscoveryLogo2020.svg.png",ID Discovery HD
 http://easyip.xyz:80/rYa4WJk4/cmzCDZq/49348
+#EXTINF:-1 group-title="Documentary" tvg-name="Travel Channel HD" tvg-id="TravelChannel.hr" tvg-logo="http://nextgen-iptv.com/logo/TravelChannel_UK.png",Travel Channel HD
+http://easyip.xyz:80/rYa4WJk4/cmzCDZq/49634
+#EXTINF:-1 group-title="Entertainment" tvg-name="Woman" tvg-id="Woman.hr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/woman-hr.png",Woman
+http://easyip.xyz:80/rYa4WJk4/cmzCDZq/49663
+#EXTINF:-1 group-title="Entertainment" tvg-name="E! Entertainment HD" tvg-id="Entertainment.hr" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/e.png",E! Entertainment HD
+http://easyip.xyz:80/rYa4WJk4/cmzCDZq/49279
 #EXTINF:-1 group-title="Documentary" tvg-name="NASA TV Public" tvg-id="NASATVPublic.us" tvg-logo="https://thumbs2.imgbox.com/51/ed/Mf3nzgHP_t.png",NASA TV Public
 https://endpnt.com/hls/nasa-public/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-name="NASA TV Media" tvg-id="NASATVMedia.us" tvg-logo="https://thumbs2.imgbox.com/81/46/bEYhGqOo_t.png",NASA TV Media
