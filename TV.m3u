@@ -19,10 +19,17 @@ http://easyip.xyz:80/rYa4WJk4/cmzCDZq/49634
 http://easyip.xyz:80/rYa4WJk4/cmzCDZq/49663
 #EXTINF:-1 group-title="Entertainment" tvg-name="E! Entertainment HD" tvg-id="Entertainment.hr" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/e.png",E! Entertainment HD
 http://easyip.xyz:80/rYa4WJk4/cmzCDZq/49279
+#
+# NASA TV Public
 #EXTINF:-1 group-title="Documentary" tvg-name="NASA TV Public" tvg-id="NASATVPublic.us" tvg-logo="https://thumbs2.imgbox.com/51/ed/Mf3nzgHP_t.png",NASA TV Public
-https://endpnt.com/hls/nasa-public/playlist.m3u8
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+# 2nd link >> https://endpnt.com/hls/nasa-public/playlist.m3u8
+#
+# NASA TV Media
 #EXTINF:-1 group-title="Documentary" tvg-name="NASA TV Media" tvg-id="NASATVMedia.us" tvg-logo="https://thumbs2.imgbox.com/81/46/bEYhGqOo_t.png",NASA TV Media
-https://endpnt.com/hls/nasa-media/playlist.m3u8
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+# 2nd link >> https://endpnt.com/hls/nasa-media/playlist.m3u8
+#
 #EXTINF:-1 group-title="Documentary" tvg-name="NASA TV UHD" tvg-id="NASATVUHD.us" tvg-logo="https://thumbs2.imgbox.com/4d/d5/NZVBUM7o_t.png",NASA TV UHD
 https://endpnt.com/hls/nasa4k/playlist.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-name="ESA Web TV One" tvg-id="ESAWebTVOne.int" tvg-logo="https://thumbs2.imgbox.com/b3/fa/yGoBOxzK_t.png",ESA Web TV One
@@ -66,6 +73,16 @@ https://dai.google.com/linear/hls/event/TPKhqf0BQn2_ijC-0rOJcA/master.m3u8
 # CNN International Europe
 #EXTINF:-1 group-title="News" tvg-name="CNN International Europe" tvg-id="CNNInternationalEurope.us" tvg-logo="https://thumbs2.imgbox.com/61/68/xGAF8251_t.png",CNN International Europe
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+#
+# Reuters TV
+#EXTINF:-1 group-title="News" tvg-name="Reuters TV" tvg-id="ReutersTV.us" tvg-logo="https://thumbs2.imgbox.com/11/a5/pYHSSbFX_t.png",Reuters TV
+https://reuters-reutersnow-1-us.plex.wurl.tv/playlist.m3u8
+# 2nd link >> https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8
+# 3rd link >> https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+#
+# Pluto TV Space
+#EXTINF:-1 group-title="Documentary" tvg-name="Pluto TV Space" tvg-id="PlutoTVSpace.us" tvg-logo="https://thumbs2.imgbox.com/6f/44/WDMirvTL_t.png",Pluto TV Space
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2f98777f2e0009934ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #
 #EXTINF:-1 group-title="Slovenia" tvg-name="TV Slovenija 1" tvg-id="TVSlovenija1.si" tvg-logo="https://thumbs2.imgbox.com/e3/e8/6RKB6akD_t.png",TV Slovenija 1
 https://livestreamserver.000webhostapp.com/tvslovenija1/
