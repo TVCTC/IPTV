@@ -66,7 +66,7 @@ https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 #EXTINF:-1 group-title="Entertainmnet" tvg-name="Space Channel" tvg-id="SpaceChannel.com" tvg-logo="https://thumbs2.imgbox.com/64/ce/tDHwpEGT_t.png",Space Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=540
 #EXTINF:-1 group-title="Webcam" tvg-name="Earth TV" tvg-id="EarthTV.com" tvg-logo="https://thumbs2.imgbox.com/60/ca/XkZxn5EY_t.png",Earth TV
-https://livestreamserver.000webhostapp.com/earthtv/
+https://livecdn-de-earthtv-com.global.ssl.fastly.net/edge2/cdnedge/HicYJzEAB5E/playlist.m3u8?token=EAIY6wE4saDKVUCgOEgF.CgdlYXJ0aHR2EAEyC0hpY1lKeTZBQjVBOgtIaWNZSnpFQUI1RQ.A6gZ5ersxTAEbXH-M41WIckZ5Vh2-V0fZ5vqfDeqI8MzveMln_fJnKC3tAO6uhjtRoAI0YYn6oZdnXKOPRrJHA
 #EXTINF:-1 group-title="News" tvg-name="CGTN News English" tvg-id="CGTNNewsEnglish.cn" tvg-logo="https://thumbs2.imgbox.com/f8/fb/LQv47kUf_t.png",CGTN News English
 https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-name="CGTN Documentary" tvg-id="CGTNDocumentary.cn" tvg-logo="https://thumbs2.imgbox.com/36/8a/KCiEboax_t.png",CGTN Documentary
