@@ -46,7 +46,7 @@ https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
 #EXTINF:-1 group-title="News" tvg-name="DW English" tvg-id="DWEnglish.de" tvg-logo="https://thumbs2.imgbox.com/50/5e/VEFJ0qh3_t.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="News" tvg-name="CBS News Miami" tvg-id="CBSNewsMiami.us" tvg-logo="https://thumbs2.imgbox.com/d1/35/I5qwoZbg_t.png",CBS News Miami
-https://dai.google.com/linear/hls/pa/event/_yODrBHESGSzPe3dqW4gGg/stream/c5a7ef4b-2b4d-459b-b21b-df8252dc27c3:BRU/master.m3u8
+https://dai.google.com/linear/hls/pa/event/_yODrBHESGSzPe3dqW4gGg/stream/107a70bd-c9b0-4bf7-b4d7-f583b87b781e:BRU/master.m3u8
 #EXTINF:-1 group-title="News" tvg-name="CBS News New York" tvg-id="CBSNewsNewYork.us" tvg-logo="https://thumbs2.imgbox.com/d6/2f/d6ilnDhv_t.png",CBS News New York
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 group-title="Slovenia" tvg-name="TV Slovenija 1" tvg-id="TVSlovenija1.si" tvg-logo="https://thumbs2.imgbox.com/e3/e8/6RKB6akD_t.png",TV Slovenija 1
