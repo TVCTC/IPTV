@@ -56,15 +56,15 @@ https://dai.google.com/linear/hls/event/jeTDC610T-OSPdiWhcl0Pg/master.m3u8
 # 2nd link >> https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #
 # CBS News Los Angeles
-#EXTINF:-1 group-title="News" tvg-name="CBS News Los Angeles" tvg-id="CBSNewsLosAngeles.us" tvg-logo="https://thumbs2.imgbox.com/d6/2f/d6ilnDhv_t.png",CBS News Los Angeles
+#EXTINF:-1 group-title="News" tvg-name="CBS News Los Angeles" tvg-id="CBSNewsLosAngeles.us" tvg-logo="https://thumbs2.imgbox.com/81/93/zQ7h7Qsh_t.png",CBS News Los Angeles
 https://dai.google.com/linear/hls/event/K_2aA7OVRTacJJli1oSi8w/master.m3u8
 #
-# Bloomberg Europe
-#EXTINF:-1 group-title="News" tvg-name="Bloomberg Europe" tvg-id="BloombergEurope.us" tvg-logo="https://thumbs2.imgbox.com/d6/2f/d6ilnDhv_t.png",Bloomberg Europe
+# Bloomberg TV Europe
+#EXTINF:-1 group-title="News" tvg-name="Bloomberg TV Europe" tvg-id="BloombergTVEurope.us" tvg-logo="https://thumbs2.imgbox.com/98/28/LgDlmZbl_t.png",Bloomberg TV Europe
 https://dai.google.com/linear/hls/event/TPKhqf0BQn2_ijC-0rOJcA/master.m3u8
 #
 # CNN International Europe
-#EXTINF:-1 group-title="News" tvg-name="CNN International Europe" tvg-id="CNNInternationalEurope.us" tvg-logo="https://thumbs2.imgbox.com/d6/2f/d6ilnDhv_t.png",CNN International Europe
+#EXTINF:-1 group-title="News" tvg-name="CNN International Europe" tvg-id="CNNInternationalEurope.us" tvg-logo="https://thumbs2.imgbox.com/61/68/xGAF8251_t.png",CNN International Europe
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #
 #EXTINF:-1 group-title="Slovenia" tvg-name="TV Slovenija 1" tvg-id="TVSlovenija1.si" tvg-logo="https://thumbs2.imgbox.com/e3/e8/6RKB6akD_t.png",TV Slovenija 1
