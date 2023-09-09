@@ -35,6 +35,7 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://endpnt.com/hls/nasa4k/playlist.m3u8
 #
 # International Space Station on UStream
+# Web >> https://www.nasa.gov/multimedia/nasatv/iss_ustream.html
 #EXTINF:-1 group-title="Documentary" tvg-name="International Space Station on UStream" tvg-id="InternationalSpaceStation.us" tvg-logo="https://thumbs2.imgbox.com/4d/d5/NZVBUM7o_t.png",International Space Station on UStream
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 #
