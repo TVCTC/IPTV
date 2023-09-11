@@ -136,5 +136,5 @@ https://stream.agatin.hr:3087/live/sptvlive.m3u8
 https://cdn-004.whatsupcams.com/hls/hr_crikvenica1.m3u8
 #EXTINF:-1 group-title="Sport" tvg-name="Olympic Channel" tvg-id="OlympicChannel.int" tvg-logo="https://thumbs2.imgbox.com/45/27/1M1IrWhV_t.png",Olympic Channel
 https://livestreamserver.000webhostapp.com/olympicchannel/
-#EXTINF:-1 group-title="Sport" tvg-name="Gol.hr" tvg-id="Gol.hr tvg-logo="https://gol.dnevnik.hr/static/hr/cms/gol_2020/img/icons/gLogo.svg",Gol.hr
+#EXTINF:-1 group-title="Sport" tvg-name="Gol.hr" tvg-id="Gol.hr tvg-logo="https://thumbs2.imgbox.com/8b/cc/qbnYQKCJ_t.png",Gol.hr
 https://w3g6c2u4.ssl.hwcdn.net/live/nova_stream1/playlist.m3u8
