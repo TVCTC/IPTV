@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="Documentary" tvg-name="Crime & Investigation HD" tvg-id="CrimeAndInvestigation.hr" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/crime_investigation_2020_250x250.png",Crime & Investigation HD
+#EXTINF:-1 group-title="Crime" tvg-name="Crime & Investigation HD" tvg-id="CrimeAndInvestigation.hr" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/crime_investigation_2020_250x250.png",Crime & Investigation HD
 http://easyip.xyz:80/cjTm6B8w/bamuWcb/49261
 #EXTINF:-1 group-title="Documentary" tvg-name="DocuBox HD" tvg-id="DocuBox.hr" tvg-logo="http://www.spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png",DocuBox HD
 http://easyip.xyz:80/cjTm6B8w/bamuWcb/49271
@@ -11,9 +11,9 @@ http://easyip.xyz:80/cjTm6B8w/bamuWcb/49279
 http://easyip.xyz:80/cjTm6B8w/bamuWcb/49282
 #EXTINF:-1 group-title="Sport" tvg-name="Eurosport 2 HD" tvg-id="Eurosport2.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_2_Logo_2015.png/330px-Eurosport_2_Logo_2015.png",Eurosport 2 HD
 http://easyip.xyz:80/cjTm6B8w/bamuWcb/49284
-#EXTINF:-1 group-title="Entertainment" tvg-name="Fox Movies HD" tvg-id="FoxMovies.hr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_movies_us.png",Fox Movies HD
+#EXTINF:-1 group-title="Movies" tvg-name="Fox Movies HD" tvg-id="FoxMovies.hr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_movies_us.png",Fox Movies HD
 http://easyip.xyz:80/cjTm6B8w/bamuWcb/49299
-#EXTINF:-1 group-title="Documentary" tvg-name="ID Discovery HD" tvg-id="IDDiscovery.hr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/375px-InvestigationDiscoveryLogo2020.svg.png",ID Discovery HD
+#EXTINF:-1 group-title="Crime" tvg-name="ID Discovery HD" tvg-id="IDDiscovery.hr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/375px-InvestigationDiscoveryLogo2020.svg.png",ID Discovery HD
 http://easyip.xyz:80/cjTm6B8w/bamuWcb/49348
 #EXTINF:-1 group-title="Sport" tvg-name="Max Sport 1" tvg-id="MaxSport1.hr" tvg-logo="https://thumbs2.imgbox.com/7d/e5/JV0UPzCA_t.png",Max Sport 1
 http://easyip.xyz:80/cjTm6B8w/bamuWcb/49395
@@ -23,34 +23,34 @@ http://easyip.xyz:80/cjTm6B8w/bamuWcb/49396
 http://easyip.xyz:80/cjTm6B8w/bamuWcb/49634
 #
 # NASA TV Public
-#EXTINF:-1 group-title="Documentary" tvg-name="NASA TV Public" tvg-id="NASATVPublic.us" tvg-logo="https://thumbs2.imgbox.com/51/ed/Mf3nzgHP_t.png",NASA TV Public
+#EXTINF:-1 group-title="Science" tvg-name="NASA TV Public" tvg-id="NASATVPublic.us" tvg-logo="https://thumbs2.imgbox.com/51/ed/Mf3nzgHP_t.png",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 # 2nd link >> https://endpnt.com/hls/nasa-public/playlist.m3u8
 #
 # NASA TV Media
-#EXTINF:-1 group-title="Documentary" tvg-name="NASA TV Media" tvg-id="NASATVMedia.us" tvg-logo="https://thumbs2.imgbox.com/81/46/bEYhGqOo_t.png",NASA TV Media
+#EXTINF:-1 group-title="Science" tvg-name="NASA TV Media" tvg-id="NASATVMedia.us" tvg-logo="https://thumbs2.imgbox.com/81/46/bEYhGqOo_t.png",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 # 2nd link >> https://endpnt.com/hls/nasa-media/playlist.m3u8
 #
 # NASA TV UHD
-#EXTINF:-1 group-title="Documentary" tvg-name="NASA TV UHD" tvg-id="NASATVUHD.us" tvg-logo="https://thumbs2.imgbox.com/4d/d5/NZVBUM7o_t.png",NASA TV UHD
+#EXTINF:-1 group-title="Science" tvg-name="NASA TV UHD" tvg-id="NASATVUHD.us" tvg-logo="https://thumbs2.imgbox.com/4d/d5/NZVBUM7o_t.png",NASA TV UHD
 https://endpnt.com/hls/nasa4k/playlist.m3u8
 #
 # International Space Station on UStream
 # Web >> https://www.nasa.gov/multimedia/nasatv/iss_ustream.html
-#EXTINF:-1 group-title="Documentary" tvg-name="International Space Station on UStream" tvg-id="InternationalSpaceStation.us" tvg-logo="https://thumbs2.imgbox.com/4d/d5/NZVBUM7o_t.png",International Space Station on UStream
+#EXTINF:-1 group-title="Science" tvg-name="International Space Station on UStream" tvg-id="InternationalSpaceStation.us" tvg-logo="https://thumbs2.imgbox.com/4d/d5/NZVBUM7o_t.png",International Space Station on UStream
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
 # alt link >> https://www.n2yo.com/space-station/
 #
 # ESA Web TV One
-#EXTINF:-1 group-title="Documentary" tvg-name="ESA Web TV One" tvg-id="ESAWebTVOne.int" tvg-logo="https://thumbs2.imgbox.com/b3/fa/yGoBOxzK_t.png",ESA Web TV One
+#EXTINF:-1 group-title="Science" tvg-name="ESA Web TV One" tvg-id="ESAWebTVOne.int" tvg-logo="https://thumbs2.imgbox.com/b3/fa/yGoBOxzK_t.png",ESA Web TV One
 https://livestreamserver.000webhostapp.com/esawebtvone/
 #
 # Red Bull TV
 #EXTINF:-1 group-title="Sport" tvg-name="Red Bull TV" tvg-id="RedBullTV.at" tvg-logo="https://thumbs2.imgbox.com/a8/24/QbYwUePw_t.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #
-#EXTINF:-1 group-title="Documentary" tvg-name="Crime 360" tvg-id="Crime360.us" tvg-logo="https://thumbs2.imgbox.com/85/7d/Wut6FGg9_t.png",Crime 360
+#EXTINF:-1 group-title="Crime" tvg-name="Crime 360" tvg-id="Crime360.us" tvg-logo="https://thumbs2.imgbox.com/85/7d/Wut6FGg9_t.png",Crime 360
 https://dab88d35ef5b44ec99be60adef855bf2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Crime360/playlist.m3u8?ads.wurl_channel=393&ads.wurl_name=Crime360&ads.psid=%7BPSID%7D&ads.us_privacy=1YNY&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #EXTINF:-1 group-title="Music" tvg-name="Afrobeats 24/7 TV" tvg-id="Afrobeats247TV.uk" tvg-logo="https://thumbs2.imgbox.com/fe/a3/BlhRq7Rl_t.png",Afrobeats 24/7 TV
 https://stream.ecable.tv/afrobeats/index.m3u8
@@ -95,7 +95,7 @@ https://reuters-reutersnow-1-us.plex.wurl.tv/playlist.m3u8
 # 3rd link >> https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
 #
 # Pluto TV Space
-#EXTINF:-1 group-title="Documentary" tvg-name="Pluto TV Space" tvg-id="PlutoTVSpace.us" tvg-logo="https://thumbs2.imgbox.com/6f/44/WDMirvTL_t.png",Pluto TV Space
+#EXTINF:-1 group-title="Science" tvg-name="Pluto TV Space" tvg-id="PlutoTVSpace.us" tvg-logo="https://thumbs2.imgbox.com/6f/44/WDMirvTL_t.png",Pluto TV Space
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc2f98777f2e0009934ae7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #
 #EXTINF:-1 group-title="Slovenia" tvg-name="TV Slovenija 1" tvg-id="TVSlovenija1.si" tvg-logo="https://thumbs2.imgbox.com/e3/e8/6RKB6akD_t.png",TV Slovenija 1
@@ -112,7 +112,7 @@ https://livestreamserver.000webhostapp.com/tvmaribor/
 https://livestreamserver.000webhostapp.com/mmctv/
 #EXTINF:-1 group-title="Lounge" tvg-name="Stingray Naturescape" tvg-id="StingrayNaturescape.stirr" tvg-logo="https://thumbs2.imgbox.com/91/de/FjqG802n_t.png",Stingray Naturescape by STIRR
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-name="Space Channel" tvg-id="SpaceChannel.com" tvg-logo="https://thumbs2.imgbox.com/64/ce/tDHwpEGT_t.png",Space Channel
+#EXTINF:-1 group-title="Science" tvg-name="Space Channel" tvg-id="SpaceChannel.com" tvg-logo="https://thumbs2.imgbox.com/64/ce/tDHwpEGT_t.png",Space Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=540
 #EXTINF:-1 group-title="Webcam" tvg-name="Earth TV" tvg-id="EarthTV.com" tvg-logo="https://thumbs2.imgbox.com/60/ca/XkZxn5EY_t.png",Earth TV
 https://livestreamserver.000webhostapp.com/earthtv/
