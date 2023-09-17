@@ -1,4 +1,5 @@
-#EXTM3U
+#EXTM3U url-tvg="https://tinyurl.com/tvctcepg" refresh="2" billed-till="1695107855" billed-msg="Uskoro istječe probni period."
+#
 #EXTINF:-1 group-title="Crime" tvg-name="Crime And Investigation" tvg-id="CrimeAndInvestigation.hr" tvg-logo="https://thumbs2.imgbox.com/eb/3e/FcRrkWbn_t.png",Crime And Investigation
 http://easyip.xyz:80/qt45YG6H/x8fJcpj/49261
 #EXTINF:-1 group-title="Documentary" tvg-name="DocuBox HD" tvg-id="DocuBox.hr" tvg-logo="http://www.spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png",DocuBox HD
