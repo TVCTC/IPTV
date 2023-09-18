@@ -1,7 +1,7 @@
-#EXTM3U url-tvg="https://tinyurl.com/tvctcepg" refresh="2" billed-till="1695107855" billed-msg="Uskoro istječe probni period."
+#EXTM3U billed-till="1695107855" billed-msg="Uskoro istječe probni period."
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"}
 #
-#EXTINF:-1 group-title="Crime" tvg-name="Crime And Investigation" tvg-id="CrimeAndInvestigation.hr" tvg-logo="https://thumbs2.imgbox.com/eb/3e/FcRrkWbn_t.png",Crime And Investigation
+#EXTINF:-1 url-tvg="https://tinyurl.com/tvctcepg" refresh="2" group-title="Crime" tvg-name="Crime And Investigation" tvg-id="CrimeAndInvestigation.hr" tvg-logo="https://thumbs2.imgbox.com/eb/3e/FcRrkWbn_t.png",Crime And Investigation
 http://easyip.xyz:80/qt45YG6H/x8fJcpj/49261
 #EXTINF:-1 group-title="Documentary" tvg-name="DocuBox HD" tvg-id="DocuBox.hr" tvg-logo="http://www.spiintl.com/data/files/kcfinderUploadDir/images/logo/docubox-logo.png",DocuBox HD
 http://easyip.xyz:80/qt45YG6H/x8fJcpj/49271
@@ -15,11 +15,11 @@ http://easyip.xyz:80/qt45YG6H/x8fJcpj/49282
 http://easyip.xyz:80/qt45YG6H/x8fJcpj/49284
 #EXTINF:-1 group-title="Movies" tvg-name="Fox Movies HD" tvg-id="FoxMovies.hr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox_movies_us.png",Fox Movies HD
 http://easyip.xyz:80/qt45YG6H/x8fJcpj/49299
-#EXTINF:-1 group-title="Crime" tvg-name="ID Discovery" tvg-id="IDDiscovery.sr" tvg-logo="https://thumbs2.imgbox.com/83/b3/C9xO0UMw_t.png",ID Discovery
+#EXTINF:-1 url-tvg="https://tinyurl.com/tvctcepg" refresh="2" group-title="Crime" tvg-name="ID Discovery" tvg-id="IDDiscovery.sr" tvg-logo="https://thumbs2.imgbox.com/83/b3/C9xO0UMw_t.png",ID Discovery
 http://easyip.xyz:80/qt45YG6H/x8fJcpj/49348
-#EXTINF:-1 group-title="Sport" tvg-name="Max Sport 1" tvg-id="MaxSport1.hr" tvg-logo="https://thumbs2.imgbox.com/7d/e5/JV0UPzCA_t.png",Max Sport 1
+#EXTINF:-1 url-tvg="https://tinyurl.com/tvctcepg" refresh="2" group-title="Sport" tvg-name="Max Sport 1" tvg-id="MaxSport1.hr" tvg-logo="https://thumbs2.imgbox.com/7d/e5/JV0UPzCA_t.png",Max Sport 1
 http://easyip.xyz:80/qt45YG6H/x8fJcpj/49395
-#EXTINF:-1 group-title="Sport" tvg-name="Max Sport 2" tvg-id="MaxSport2.hr" tvg-logo="https://thumbs2.imgbox.com/40/44/8HYTd0co_t.png",Max Sport 2
+#EXTINF:-1 url-tvg="https://tinyurl.com/tvctcepg" refresh="2" group-title="Sport" tvg-name="Max Sport 2" tvg-id="MaxSport2.hr" tvg-logo="https://thumbs2.imgbox.com/40/44/8HYTd0co_t.png",Max Sport 2
 http://easyip.xyz:80/qt45YG6H/x8fJcpj/49396
 #EXTINF:-1 group-title="Documentary" tvg-name="Travel Channel HD" tvg-id="TravelChannel.hr" tvg-logo="http://nextgen-iptv.com/logo/TravelChannel_UK.png",Travel Channel HD
 http://easyip.xyz:80/qt45YG6H/x8fJcpj/49634
@@ -27,12 +27,12 @@ http://easyip.xyz:80/qt45YG6H/x8fJcpj/49634
 # fastip.tv username/password valid until 14.9.2023. 09:30
 #
 # NASA TV Public
-#EXTINF:-1 group-title="Science" tvg-name="NASA TV Public" tvg-id="NASATVPublic.us" tvg-logo="https://thumbs2.imgbox.com/51/ed/Mf3nzgHP_t.png",NASA TV Public
+#EXTINF:-1 url-tvg="https://tinyurl.com/tvctcepg" refresh="2" group-title="Science" tvg-name="NASA TV Public" tvg-id="NASATVPublic.us" tvg-logo="https://thumbs2.imgbox.com/51/ed/Mf3nzgHP_t.png",NASA TV Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 # 2nd link >> https://endpnt.com/hls/nasa-public/playlist.m3u8
 #
 # NASA TV Media
-#EXTINF:-1 group-title="Science" tvg-name="NASA TV Media" tvg-id="NASATVMedia.us" tvg-logo="https://thumbs2.imgbox.com/81/46/bEYhGqOo_t.png",NASA TV Media
+#EXTINF:-1 url-tvg="https://tinyurl.com/tvctcepg" refresh="2" group-title="Science" tvg-name="NASA TV Media" tvg-id="NASATVMedia.us" tvg-logo="https://thumbs2.imgbox.com/81/46/bEYhGqOo_t.png",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 # 2nd link >> https://endpnt.com/hls/nasa-media/playlist.m3u8
 #
@@ -47,7 +47,7 @@ http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u
 # alt link >> https://www.n2yo.com/space-station/
 #
 # ESA Web TV One
-#EXTINF:-1 group-title="Science" tvg-name="ESA Web TV One" tvg-id="ESAWebTVOne.int" tvg-logo="https://thumbs2.imgbox.com/b3/fa/yGoBOxzK_t.png",ESA Web TV One
+#EXTINF:-1 url-tvg="https://tinyurl.com/tvctcepg" refresh="2" group-title="Science" tvg-name="ESA Web TV One" tvg-id="ESAWebTVOne.int" tvg-logo="https://thumbs2.imgbox.com/b3/fa/yGoBOxzK_t.png",ESA Web TV One
 https://livestreamserver.000webhostapp.com/esawebtvone/
 #
 # Red Bull TV
