@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/TVCTC/xmltv/master/epg.xml" refresh="1" billed-till="1695107855" billed-msg="Uskoro istječe probni period."
+#EXTM3U url-tvg="https://raw.githubusercontent.com/TVCTC/xmltv/master/epg.xml" refresh="1" billed-till="" billed-msg="Uskoro istječe probni period."
 #EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"}
 #
 #EXTINF:-1 group-title="Crime" tvg-name="Crime And Investigation" tvg-id="CrimeAndInvestigation.hr" tvg-logo="https://thumbs2.imgbox.com/eb/3e/FcRrkWbn_t.png",Crime And Investigation
@@ -148,9 +148,4 @@ https://cdn.jwplayer.com/manifests/351dJNJd.m3u8?sig=8efce4cbf6cfb728a4ea550e2b7
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfdf002-41ec-11ed-b32f-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=222717cb-83b9-459f-a6f5-331c9852699b&userId=&serverSideAds=true
 #
 # sample live link: https://w3g6c2u4.ssl.hwcdn.net/live/nova_stream1/playlist.m3u8
-# Updated by TV on Fri Sep 15 2023 14:35:52 GMT+0200 (Central European Summer Time)
-
-# Updated by TV on Sun Sep 17 2023 12:37:41 GMT+0200 (Central European Summer Time)
-
-# Updated by TV on Tue Sep 19 2023 07:21:21 GMT+0200 (Central European Summer Time)
 # Updated by TV on Tue Sep 19 2023 07:28:28 GMT+0200 (srednjoeuropsko ljetno vrijeme)
