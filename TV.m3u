@@ -144,7 +144,7 @@ https://livestreamserver.000webhostapp.com/olympicchannel/
 https://cdn.jwplayer.com/manifests/351dJNJd.m3u8?sig=8efce4cbf6cfb728a4ea550e2b70fde4&exp=1694462476
 #
 # Pluto TV True Crime
-#EXTINF:-1 group-title="Crime" tvg-name="Pluto TV True Crime" tvg-id="PlutoTVTrueCrime.us" tvg-logo="https://thumbs2.imgbox.com/78/77/358ZDVDB_t.png",Pluto TV True Crime
+#EXTINF:-1 group-title="Crime" tvg-name="Pluto TV True Crime" tvg-id="PlutoTVTrueCrime.us" tvg-logo="https://thumbs2.imgbox.com/6d/2c/Q7FQQLdz_t.png",Pluto TV True Crime
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfdf002-41ec-11ed-b32f-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=222717cb-83b9-459f-a6f5-331c9852699b&userId=&serverSideAds=true
 #
 # sample live link: https://w3g6c2u4.ssl.hwcdn.net/live/nova_stream1/playlist.m3u8
