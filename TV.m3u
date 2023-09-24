@@ -155,6 +155,14 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5efbd39f8c4ce
 #EXTINF:-1 group-title="Sci-Fi" tvg-name="Pluto TV Sci-Fi" tvg-id="PlutoTVSciFi.us" tvg-logo="https://thumbs2.imgbox.com/35/10/kzVsYljL_t.png",Pluto TV Sci-Fi
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfdd6c6-41ec-11ed-8bba-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db75d52b-c62a-45aa-9ec0-d0fc54b52005&userId=&serverSideAds=true
 #
+# Fail Army
+#EXTINF:-1 group-title="Comedy" tvg-name="Fail Army" tvg-id="FailArmy.us" tvg-logo="https://thumbs2.imgbox.com/41/78/gamfaVrt_t.png",Fail Army
+https://2383afee096b4dc499922dcf79ba9cfa.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_FailArmy/playlist.m3u8?ads.wurl_channel=89&ads.wurl_name=FailArmy&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+#
+# Always Funny Videos
+#EXTINF:-1 group-title="Comedy" tvg-name="Always Funny Videos" tvg-id="AlwaysFunnyVideos.us" tvg-logo="https://thumbs2.imgbox.com/f9/7f/4CMUb2J2_t.png",Always Funny Videos
+https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#
 # sample live link: https://w3g6c2u4.ssl.hwcdn.net/live/nova_stream1/playlist.m3u8
 # Updated by TV on Thu Sep 21 2023 16:28:31 GMT+0200 (srednjoeuropsko ljetno vrijeme)
 
