@@ -147,6 +147,14 @@ https://cdn.jwplayer.com/manifests/351dJNJd.m3u8?sig=8efce4cbf6cfb728a4ea550e2b7
 #EXTINF:-1 group-title="Crime" tvg-name="Pluto TV True Crime" tvg-id="PlutoTVTrueCrime.us" tvg-logo="https://thumbs2.imgbox.com/6d/2c/Q7FQQLdz_t.png",Pluto TV True Crime
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5812be1c249444e05d09cc50/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfdf002-41ec-11ed-b32f-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=222717cb-83b9-459f-a6f5-331c9852699b&userId=&serverSideAds=true
 #
+# Pluto TV Star Trek
+#EXTINF:-1 group-title="Sci-Fi" tvg-name="Pluto TV Star Trek" tvg-id="PlutoTVStarTrek.us" tvg-logo="https://thumbs2.imgbox.com/33/c7/PilYYA9B_t.png",Pluto TV Star Trek
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfdd63a-41ec-11ed-8525-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c573fb7-947c-4697-b142-5b394339e861&userId=&serverSideAds=true
+#
+# Pluto TV Sci-Fi
+#EXTINF:-1 group-title="Sci-Fi" tvg-name="Pluto TV Sci-Fi" tvg-id="PlutoTVSciFi.us" tvg-logo="https://thumbs2.imgbox.com/33/c7/PilYYA9B_t.png",Pluto TV Sci-Fi
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5b4fc274694c027be6ed3eea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfdd6c6-41ec-11ed-8bba-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db75d52b-c62a-45aa-9ec0-d0fc54b52005&userId=&serverSideAds=true
+#
 # sample live link: https://w3g6c2u4.ssl.hwcdn.net/live/nova_stream1/playlist.m3u8
 # Updated by TV on Thu Sep 21 2023 16:28:31 GMT+0200 (srednjoeuropsko ljetno vrijeme)
 
