@@ -116,7 +116,7 @@ https://livestreamserver.000webhostapp.com/tvkoper/
 https://livestreamserver.000webhostapp.com/tvmaribor/
 #EXTINF:-1 group-title="Slovenia" tvg-name="MMC TV" tvg-id="MMCTV.si" tvg-logo="https://thumbs2.imgbox.com/e4/e5/wOq7ysDm_t.png",MMC TV
 https://livestreamserver.000webhostapp.com/mmctv/
-#EXTINF:-1 group-title="Lounge" tvg-name="Stingray Naturescape" tvg-id="StingrayNaturescape.stirr" tvg-logo="https://thumbs2.imgbox.com/91/de/FjqG802n_t.png",Stingray Naturescape by STIRR
+#EXTINF:-1 group-title="Lounge" tvg-name="Stingray Naturescape" tvg-id="StingrayNaturescape.stirr" tvg-logo="https://thumbs2.imgbox.com/91/de/FjqG802n_t.png",Stingray Naturescape
 https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 #EXTINF:-1 group-title="Science" tvg-name="Space Channel" tvg-id="SpaceChannel.com" tvg-logo="https://thumbs2.imgbox.com/64/ce/tDHwpEGT_t.png",Space Channel
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=540
