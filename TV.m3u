@@ -165,6 +165,22 @@ https://2383afee096b4dc499922dcf79ba9cfa.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="Comedy" tvg-name="Always Funny Videos" tvg-id="AlwaysFunnyVideos.us" tvg-logo="https://thumbs2.imgbox.com/f9/7f/4CMUb2J2_t.png",Always Funny Videos
 https://d2hnz12weo628w.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/AFV2-prod/samsung.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #
+# Star Trek 2
+#EXTINF:-1 group-title="Sci-Fi" tvg-name="Star Trek 2" tvg-id="StarTrek2.us" tvg-logo="https://thumbs2.imgbox.com/f2/46/z0qjWyUo_t.png",Star Trek 2
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f77879983bec60007e2a196/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfdd63a-41ec-11ed-8525-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c573fb7-947c-4697-b142-5b394339e861&userId=&serverSideAds=true
+#
+# More Star Trek
+#EXTINF:-1 group-title="Sci-Fi" tvg-name="More Star Trek" tvg-id="MoreStarTrek.us" tvg-logo="https://thumbs2.imgbox.com/fb/f5/u7u5FtfA_t.png",More Star Trek
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/634dacf51d90320007fcd5fa/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfdd63a-41ec-11ed-8525-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c573fb7-947c-4697-b142-5b394339e861&userId=&serverSideAds=true
+#
+# Unsolved Mysteries
+#EXTINF:-1 group-title="Crime" tvg-name="Unsolved Mysteries" tvg-id="UnsolvedMysteries.us" tvg-logo="https://thumbs2.imgbox.com/9a/20/mslr7TJi_t.png",Unsolved Mysteries
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5b4e96a0423e067bd6df6901/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfdd63a-41ec-11ed-8525-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c573fb7-947c-4697-b142-5b394339e861&userId=&serverSideAds=true
+#
+# Cold Case Files
+#EXTINF:-1 group-title="Crime" tvg-name="Cold Case Files" tvg-id="ColdCaseFiles.us" tvg-logo="https://thumbs2.imgbox.com/61/5e/qXooYtGa_t.png",Cold Case Files
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5c37d6712de254456f7ec340/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfdd63a-41ec-11ed-8525-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c573fb7-947c-4697-b142-5b394339e861&userId=&serverSideAds=true
+#
 # sample live link: https://w3g6c2u4.ssl.hwcdn.net/live/nova_stream1/playlist.m3u8
 # Updated by TV on Thu Sep 21 2023 16:28:31 GMT+0200 (srednjoeuropsko ljetno vrijeme)
 
