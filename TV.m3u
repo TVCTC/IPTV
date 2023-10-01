@@ -185,5 +185,13 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5c37d6712de25
 #EXTINF:-1 group-title="Sci-Fi" tvg-name="MST3K" tvg-id="MST3K.us" tvg-logo="https://thumbs2.imgbox.com/a4/ed/xKcZIVmV_t.png",MST3K
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
 #
+# Hallmark Movies & More
+#EXTINF:-1 group-title="Movies" tvg-name="Hallmark Movies & More" tvg-id="HallmarkMoviesAndMore.us" tvg-logo="https://thumbs2.imgbox.com/76/d1/R2UONleM_t.png",Hallmark Movies & More
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
+#
+Stargate
+#EXTINF:-1 group-title="Sci-Fi" tvg-name="Stargate" tvg-id="Stargate.us" tvg-logo="https://thumbs2.imgbox.com/6d/4c/BTaUXA6w_t.png",Stargate
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/620bfa7df72827000703ddb1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
+#
 # sample live link: https://w3g6c2u4.ssl.hwcdn.net/live/nova_stream1/playlist.m3u8
 # Updated by TV on Sun Oct 01 2023 12:15:43 GMT+0200 (Central European Summer Time)
