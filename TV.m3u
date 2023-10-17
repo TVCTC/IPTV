@@ -270,9 +270,13 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/545943f1c9f13
 #EXTINF:-1 group-title="Movies" tvg-name="Hallmark Movies & More" tvg-id="HallmarkMoviesAndMore.us" tvg-logo="https://thumbs2.imgbox.com/76/d1/R2UONleM_t.png",Hallmark Movies & More
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/628e685ba3811100070551a8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
 #
-Stargate
+# Stargate
 #EXTINF:-1 group-title="Sci-Fi" tvg-name="Stargate" tvg-id="Stargate.us" tvg-logo="https://thumbs2.imgbox.com/6d/4c/BTaUXA6w_t.png",Stargate
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/620bfa7df72827000703ddb1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
+#
+# DeLuxe Dance
+#EXTINF:-1 group-title="Music" tvg-name="DeLuxe Dance" tvg-id="DeLuxeDance.de" tvg-logo="-",DeLuxe Dance by Kontor
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #
 # sample live link: https://w3g6c2u4.ssl.hwcdn.net/live/nova_stream1/playlist.m3u8
 # Updated by TV on Sun Oct 15 2023 10:35:15 GMT+0200 (srednjoeuropsko ljetno vrijeme)
