@@ -190,14 +190,6 @@ https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-name="CGTN Documentary" tvg-id="CGTNDocumentary.cn" tvg-logo="https://thumbs2.imgbox.com/36/8a/KCiEboax_t.png",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #
-# DeLuxe Lounge
-#EXTINF:-1 group-title="Lounge" tvg-name="DeLuxe Lounge" tvg-id="DeLuxeLounge.de" tvg-logo="https://thumbs2.imgbox.com/00/00/5PSiozk9_t.png",DeLuxe Lounge
-https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
-#
-# One World TV
-#EXTINF:-1 group-title="Music" tvg-name="One World TV" tvg-id="OneWorldTV.be" tvg-logo="https://thumbs2.imgbox.com/cf/51/S8JOqlzr_t.png",One World TV
-https://d1puoz0n3annj1.cloudfront.net/Winter_Loop.mp4
-#
 # CMC TV
 #EXTINF:-1 group-title="Music" tvg-name="CMC TV" tvg-id="CmcTV.hr" tvg-logo="https://thumbs2.imgbox.com/74/72/2CSwvE73_t.png",CMC TV
 https://stream.cmctv.hr:49998/cmc/live.m3u8
@@ -274,9 +266,21 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/628e685ba3811
 #EXTINF:-1 group-title="Sci-Fi" tvg-name="Stargate" tvg-id="Stargate.us" tvg-logo="https://thumbs2.imgbox.com/6d/4c/BTaUXA6w_t.png",Stargate
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/620bfa7df72827000703ddb1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
 #
+# DeLuxe Lounge
+#EXTINF:-1 group-title="Lounge" tvg-name="DeLuxe Lounge" tvg-id="DeLuxeLounge.de" tvg-logo="https://thumbs2.imgbox.com/00/00/5PSiozk9_t.png",DeLuxe Lounge
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+#
 # DeLuxe Dance
-#EXTINF:-1 group-title="Music" tvg-name="DeLuxe Dance" tvg-id="DeLuxeDance.de" tvg-logo="-",DeLuxe Dance by Kontor
+#EXTINF:-1 group-title="Music" tvg-name="DeLuxe Dance" tvg-id="DeLuxeDance.de" tvg-logo="https://thumbs2.imgbox.com/0e/7f/hAQn4squ_t.png",DeLuxe Dance by Kontor
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#
+# One World TV
+#EXTINF:-1 group-title="Music" tvg-name="One World TV" tvg-id="OneWorldTV.be" tvg-logo="https://thumbs2.imgbox.com/cf/51/S8JOqlzr_t.png",One World TV
+https://d1puoz0n3annj1.cloudfront.net/Winter_Loop.mp4
+#
+# One World Radio
+#EXTINF:-1 group-title="Radio" tvg-name="One World Radio" tvg-id="OneWorldRadio.be" tvg-logo="https://thumbs2.imgbox.com/cf/51/S8JOqlzr_t.png",One World Radio
+https://25493.live.streamtheworld.com/OWR_INTERNATIONAL_ADP_SC?sbmid=fde807eb-6931-47db-a758-9c3b0c7e84d0
 #
 # sample live link: https://w3g6c2u4.ssl.hwcdn.net/live/nova_stream1/playlist.m3u8
 # Updated by TV on Sun Oct 15 2023 10:35:15 GMT+0200 (srednjoeuropsko ljetno vrijeme)
