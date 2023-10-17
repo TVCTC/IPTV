@@ -1,5 +1,5 @@
-DeLuxe Lounge:
- * https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
+#EXTINF:-1 group-title="Lounge" tvg-name="DeLuxe Lounge" tvg-id="DeLuxeLounge.de" tvg-logo="https://thumbs2.imgbox.com/00/00/5PSiozk9_t.png",DeLuxe Lounge
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
  * 
  * DeLuxe Lounge (rezerva):
  * https://deluxeloungehd-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_628d1e5a4b62d91f20271ed9_deluxeloungehd-live/dl_hd.m3u8
