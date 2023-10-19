@@ -282,7 +282,13 @@ https://d1puoz0n3annj1.cloudfront.net/Winter_Loop.mp4
 #EXTINF:-1 group-title="Radio" tvg-name="One World Radio" tvg-id="OneWorldRadio.be" tvg-logo="https://thumbs2.imgbox.com/de/1a/H3dDhBzN_t.png",One World Radio
 https://25493.live.streamtheworld.com/OWR_INTERNATIONAL_ADP_SC?sbmid=fde807eb-6931-47db-a758-9c3b0c7e84d0
 #
+# V2Beat
+#EXTINF:-1 group-title="TEST" tvg-name="V2Beat" tvg-id="V2Beat.eu" tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png",V2Beat (https://www.vibee.tv/)
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#
+# MTV Club (RO)
+#EXTINF:-1 group-title="TEST" tvg-name="MTV Club (RO)" tvg-id="MTVClub.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Club_MTV_2021_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20220308214810",MTV Club (RO)
+http://easyip.xyz:80/an924a9s/fuZJR4D/43496
+#
 # sample live link: https://w3g6c2u4.ssl.hwcdn.net/live/nova_stream1/playlist.m3u8
-# Updated by TV on Tue Oct 17 2023 11:28:02 GMT+0200 (srednjoeuropsko ljetno vrijeme)
-
 # Updated by TV on Thu Oct 19 2023 18:52:46 GMT+0200 (srednjoeuropsko ljetno vrijeme)
