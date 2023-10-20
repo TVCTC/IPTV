@@ -267,7 +267,7 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/628e685ba3811
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/620bfa7df72827000703ddb1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
 #
 # DeLuxe Lounge
-#EXTINF:-1 group-title="Lounge" tvg-name="DeLuxe Lounge" tvg-id="DeLuxeLounge.de" tvg-logo="https://thumbs2.imgbox.com/00/00/5PSiozk9_t.png",DeLuxe Lounge
+#EXTINF:-1 group-title="Lounge" tvg-name="DeLuxe Lounge" tvg-id="DeLuxeLounge.de" tvg-logo="https://thumbs2.imgbox.com/7f/8d/WSd1A6Dw_t.png",DeLuxe Lounge
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips
 #
 # DeLuxe Dance
@@ -282,8 +282,8 @@ https://d1puoz0n3annj1.cloudfront.net/Winter_Loop.mp4
 #EXTINF:-1 group-title="Radio" tvg-name="One World Radio" tvg-id="OneWorldRadio.be" tvg-logo="https://thumbs2.imgbox.com/de/1a/H3dDhBzN_t.png",One World Radio
 https://25493.live.streamtheworld.com/OWR_INTERNATIONAL_ADP_SC?sbmid=fde807eb-6931-47db-a758-9c3b0c7e84d0
 #
-# V2Beat
-#EXTINF:-1 group-title="TEST" tvg-name="V2Beat" tvg-id="V2Beat.eu" tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png",V2Beat (https://www.vibee.tv/)
+# Vibe To Beat
+#EXTINF:-1 group-title="Music" tvg-name="Vibe To Beat" tvg-id="V2Beat.uk" tvg-logo="https://thumbs2.imgbox.com/19/a2/y8u9O1oV_t.png",Vibe To Beat
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #
 # MTV Club (RO)
