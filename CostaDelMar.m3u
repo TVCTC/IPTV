@@ -1,0 +1,38 @@
+#EXTM3U
+#
+# Dodano 13.5.2022.
+# Ažurirano 29.10.2023.
+#
+# RADIO CHANNELS
+# https://www.costadelmar-radio.com/
+#
+#EXTINF:0,Costa Del Mar Chillout Radio
+https://radio4.cdm-radio.com:18020/stream-mp3-Chill?aw_0_req.gdpr=true&aw_0_1st.playerId=Webplayer
+#EXTINF:0,Costa Del Mar Deep House Radio
+https://radio4.cdm-radio.com:18012/stream-mp3-Deep?aw_0_req.gdpr=true&aw_0_1st.playerId=Webplayer
+#EXTINF:0,Costa Del Mar Smooth Jazz Radio
+https://radio4.cdm-radio.com:18024/stream-mp3-Smooth?aw_0_req.gdpr=true&aw_0_1st.playerId=Webplayer
+#EXTINF:0,Costa Del Mar Dance Radio
+https://radio4.cdm-radio.com:18000/stream-mp3-Dance?aw_0_req.gdpr=true&aw_0_1st.playerId=Webplayer
+#EXTINF:0,Costa Del Mar Funky Radio
+https://radio4.cdm-radio.com:18008/stream-mp3-Funk?aw_0_req.gdpr=true&aw_0_1st.playerId=Webplayer
+#EXTINF:0,Costa Del Mar Zen Radio
+https://radio4.cdm-radio.com:18004/stream-mp3-Zen?aw_0_req.gdpr=true&aw_0_1st.playerId=Webplayer
+#
+# TV / VIDEOS
+# Source folder: https://www.costadelmar-radio.com/Videos/HD/
+#
+#EXTINF:0,Costa Del Mar Demo
+https://www.costadelmar-radio.com/wp-content/themes/cdm/images/tv/Film_demo_site.mp4
+#EXTINF:0,Above The Fiji Islands 2 Nature Relaxation 4K Just Nature Sounds
+https://www.costadelmar-radio.com/Videos/HD/Above The Fiji Islands 2 Nature Relaxation 4K Just Nature Sounds.mp4
+#EXTINF:0,Above the Fiji Islands 1HR Aerial Nature Relaxation 4K
+https://www.costadelmar-radio.com/Videos/HD/Above the Fiji Islands 1HR Aerial Nature Relaxation 4K.mp4
+#EXTINF:0,Above the Spanish Islands Mallorca & Canary Nature Relaxation 4K
+https://www.costadelmar-radio.com/Videos/HD/Above the Spanish Islands Mallorca & Canary Nature Relaxation 4K.mp4
+#EXTINF:0,Flying Over Bermuda 4K
+https://www.costadelmar-radio.com/Videos/HD/Flying Over Bermuda 4K.mp4
+#EXTINF:0,Flying Over Oahu Mastered 4K
+https://www.costadelmar-radio.com/Videos/HD/Flying Over Oahu Mastered 4K.mp4
+#EXTINF:0,Islands from Above 4K 8 Hours
+https://www.costadelmar-radio.com/Videos/HD/Islands from Above 4K 8 Hours.mp4
