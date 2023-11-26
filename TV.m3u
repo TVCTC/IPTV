@@ -290,19 +290,45 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="TEST" tvg-name="MTV Club (RO)" tvg-id="MTVClub.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Club_MTV_2021_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20220308214810",MTV Club (RO)
 http://easyip.xyz:80/jgkjKZxg/jdCsbdc/43496
 #
+# Paramount+ Picks
+#EXTINF:-1 group-title="Movies" tvg-name="Paramount+ Picks" tvg-id="ParamountPlusPicks.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Club_MTV_2021_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20220308214810",Paramount+ Picks
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
+# Pluto channel no. 250
+#
+# 90210
+#EXTINF:-1 group-title="Movies" tvg-name="90210" tvg-id="90210.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Club_MTV_2021_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20220308214810",90210
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
+# Pluto channel no. 210
+#
+# Rescue 911
+#EXTINF:-1 group-title="Crime" tvg-name="Rescue 911" tvg-id="Rescue911.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Club_MTV_2021_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20220308214810",Rescue 911
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f21e831e9fe730007706acb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
+# Pluto channel no. 202
+#
+# Festive Fireplace
+#EXTINF:-1 group-title="Christmas" tvg-name="Festive Fireplace" tvg-id="FestiveFireplace.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Club_MTV_2021_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20220308214810",Festive Fireplace
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/614501c653ceee000772b0ca/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
+# Pluto channel no. 317
+#
+# Holiday Movie Favorites by Lifetime
+#EXTINF:-1 group-title="Christmas" tvg-name="Holiday Movie Favorites by Lifetime" tvg-id="HolidayMovieFavoritesbyLifetime.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Club_MTV_2021_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20220308214810",Holiday Movie Favorites by Lifetime
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
+# Pluto channel no. 351
+#
+# Pluto TV Christmas
+#EXTINF:-1 group-title="Christmas" tvg-name="Pluto TV Christmas" tvg-id="PlutoTVChristmas.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Club_MTV_2021_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20220308214810",Pluto TV Christmas
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/63335df531a7590007c226b9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
+# Pluto channel no. 353
+#
+# VEVO Christmas
+#EXTINF:-1 group-title="Christmas" tvg-name="VEVO Christmas" tvg-id="VevoChristmas.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Club_MTV_2021_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20220308214810",VEVO Christmas
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6334a3ffdc283500076acf92/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
+# Pluto channel no. 355
+#
+# Godzilla
+#EXTINF:-1 group-title="Sci-Fi" tvg-name="Godzilla" tvg-id="Godzilla.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Club_MTV_2021_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20220308214810",Godzilla
+https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6452c8cee1979c0008608e27/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
+# Pluto channel no. 381
+#
 # sample live link: https://w3g6c2u4.ssl.hwcdn.net/live/nova_stream1/playlist.m3u8
-# Updated by TV on Thu Oct 19 2023 18:52:46 GMT+0200 (srednjoeuropsko ljetno vrijeme)
-
-# Updated by TV on Sun Oct 22 2023 09:26:48 GMT+0200 (Central European Summer Time)
-# Updated by TV on Wed Oct 25 2023 06:53:11 GMT+0200 (srednjoeuropsko ljetno vrijeme)
-# Updated by TV on Sat Oct 28 2023 11:19:10 GMT+0200 (srednjoeuropsko ljetno vrijeme)
-# Updated by TV on Mon Oct 30 2023 15:41:07 GMT+0100 (srednjoeuropsko standardno vrijeme)
-# Updated by TV on Wed Nov 01 2023 16:05:20 GMT+0100 (srednjoeuropsko standardno vrijeme)
-# Updated by TV on Fri Nov 03 2023 18:58:54 GMT+0100 (srednjoeuropsko standardno vrijeme)
-# Updated by TV on Tue Nov 07 2023 07:11:09 GMT+0100 (srednjoeuropsko standardno vrijeme)
-# Updated by TV on Thu Nov 09 2023 07:34:07 GMT+0100 (srednjoeuropsko standardno vrijeme)
-# Updated by TV on Sun Nov 12 2023 08:03:18 GMT+0100 (srednjoeuropsko standardno vrijeme)
-# Updated by TV on Thu Nov 16 2023 18:31:36 GMT+0100 (srednjoeuropsko standardno vrijeme)
-# Updated by TV on Mon Nov 20 2023 08:40:45 GMT+0100 (srednjoeuropsko standardno vrijeme)
-# Updated by TV on Thu Nov 23 2023 07:17:40 GMT+0100 (srednjoeuropsko standardno vrijeme)
 # Updated by TV on Sat Nov 25 2023 00:03:17 GMT+0100 (srednjoeuropsko standardno vrijeme)
