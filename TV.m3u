@@ -291,42 +291,42 @@ https://abr.de1se01.v2beat.live/playlist.m3u8
 http://easyip.xyz:80/jgkjKZxg/jdCsbdc/43496
 #
 # Paramount+ Picks
-#EXTINF:-1 group-title="Movies" tvg-name="Paramount+ Picks" tvg-id="ParamountPlusPicks.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Club_MTV_2021_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20220308214810",Paramount+ Picks
+#EXTINF:-1 group-title="Movies" tvg-name="Paramount+ Picks" tvg-id="ParamountPlusPicks.us" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/thumbnail.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660",Paramount+ Picks
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5ff8c708653d080007361b14/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
 # Pluto channel no. 250
 #
 # 90210
-#EXTINF:-1 group-title="Movies" tvg-name="90210" tvg-id="90210.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Club_MTV_2021_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20220308214810",90210
+#EXTINF:-1 group-title="Movies" tvg-name="90210" tvg-id="90210.us" tvg-logo="https://images.pluto.tv/channels/5f4d83e0a382c00007bc02e7/thumbnail.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660",90210
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f4d83e0a382c00007bc02e7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
 # Pluto channel no. 210
 #
 # Rescue 911
-#EXTINF:-1 group-title="Crime" tvg-name="Rescue 911" tvg-id="Rescue911.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Club_MTV_2021_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20220308214810",Rescue 911
+#EXTINF:-1 group-title="Crime" tvg-name="Rescue 911" tvg-id="Rescue911.us" tvg-logo="https://images.pluto.tv/channels/5f21e831e9fe730007706acb/thumbnail.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660",Rescue 911
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5f21e831e9fe730007706acb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
 # Pluto channel no. 202
 #
 # Festive Fireplace
-#EXTINF:-1 group-title="Christmas" tvg-name="Festive Fireplace" tvg-id="FestiveFireplace.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Club_MTV_2021_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20220308214810",Festive Fireplace
+#EXTINF:-1 group-title="Christmas" tvg-name="Festive Fireplace" tvg-id="FestiveFireplace.us" tvg-logo="https://images.pluto.tv/channels/614501c653ceee000772b0ca/thumbnail.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660",Festive Fireplace
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/614501c653ceee000772b0ca/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
 # Pluto channel no. 317
 #
 # Holiday Movie Favorites by Lifetime
-#EXTINF:-1 group-title="Christmas" tvg-name="Holiday Movie Favorites by Lifetime" tvg-id="HolidayMovieFavoritesbyLifetime.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Club_MTV_2021_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20220308214810",Holiday Movie Favorites by Lifetime
+#EXTINF:-1 group-title="Christmas" tvg-name="Holiday Movie Favorites by Lifetime" tvg-id="HolidayMovieFavoritesbyLifetime.us" tvg-logo="https://images.pluto.tv/channels/63335c59e4d7eb000785e71a/thumbnail.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660",Holiday Movie Favorites by Lifetime
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/63335b193583440007c859fb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
 # Pluto channel no. 351
 #
 # Pluto TV Christmas
-#EXTINF:-1 group-title="Christmas" tvg-name="Pluto TV Christmas" tvg-id="PlutoTVChristmas.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Club_MTV_2021_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20220308214810",Pluto TV Christmas
+#EXTINF:-1 group-title="Christmas" tvg-name="Pluto TV Christmas" tvg-id="PlutoTVChristmas.us" tvg-logo="https://images.pluto.tv/channels/63335df531a7590007c226b9/thumbnail.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660",Pluto TV Christmas
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/63335df531a7590007c226b9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
 # Pluto channel no. 353
 #
 # VEVO Christmas
-#EXTINF:-1 group-title="Christmas" tvg-name="VEVO Christmas" tvg-id="VevoChristmas.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Club_MTV_2021_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20220308214810",VEVO Christmas
+#EXTINF:-1 group-title="Christmas" tvg-name="VEVO Christmas" tvg-id="VevoChristmas.us" tvg-logo="https://images.pluto.tv/channels/6334a3ffdc283500076acf92/thumbnail.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660",VEVO Christmas
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6334a3ffdc283500076acf92/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
 # Pluto channel no. 355
 #
 # Godzilla
-#EXTINF:-1 group-title="Sci-Fi" tvg-name="Godzilla" tvg-id="Godzilla.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Club_MTV_2021_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20220308214810",Godzilla
+#EXTINF:-1 group-title="Sci-Fi" tvg-name="Godzilla" tvg-id="Godzilla.us" tvg-logo="https://images.pluto.tv/channels/6452c8cee1979c0008608e27/thumbnail.jpg?fill=blur&fit=fill&fm=jpg&h=660&q=75&w=660",Godzilla
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6452c8cee1979c0008608e27/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3dfe17bc-41ec-11ed-8864-be260bd98ea5&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42b6489c-23d7-49f2-b515-629d5209ea15&userId=&serverSideAds=true
 # Pluto channel no. 381
 #
