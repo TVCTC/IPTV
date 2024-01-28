@@ -331,9 +331,13 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6452c8cee1979
 # Pluto channel no. 381
 #
 # sample live link: https://w3g6c2u4.ssl.hwcdn.net/live/nova_stream1/playlist.m3u8
-
-# Updated by TV on Mon Jan 15 2024 00:10:51 GMT+0100 (Central European Standard Time)
-# Updated by TV on Thu Jan 18 2024 10:26:32 GMT+0100 (Central European Standard Time)
-# Updated by TV on Tue Jan 23 2024 17:33:25 GMT+0100 (Central European Standard Time)
-# Updated by TV on Fri Jan 26 2024 22:13:29 GMT+0100 (Central European Standard Time)
+#
+# Trace Africa
+#EXTINF:-1 group-title="Music" tvg-name="Trace Africa" tvg-id="TraceAfrica.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c6/Traceafrica2022.png/150px-Traceafrica2022.png",Trace Africa
+http://easyip.xyz:80/bBhakZTb/nKY4WC5/53322
+#
+# Trace Latina
+#EXTINF:-1 group-title="Music" tvg-name="Trace Latina" tvg-id="TraceLatina.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/06/Tracelatina2022.png?20230303164521",Trace Latina
+http://easyip.xyz:80/bBhakZTb/nKY4WC5/43595
+#
 # Updated by TV on Sun Jan 28 2024 22:53:28 GMT+0100 (Central European Standard Time)
