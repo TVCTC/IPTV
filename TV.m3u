@@ -356,6 +356,14 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-name="BBC Radio 1" tvg-id="BBCRadio1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1-epg.png",BBC Radio 1
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
 #
+# Deejay TV
+#EXTINF:-1 group-title="Music" tvg-name="Deejay TV" tvg-id="DeejayTV.it" tvg-logo="https://i.imgur.com/rlaKH6k.png",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#
+# Radio Italia TV
+#EXTINF:-1 group-title="Music" tvg-name="RadioItaliaTV" tvg-id="RadioItaliaTV.it" tvg-logo="https://i.imgur.com/4VCEJuJ.png",RadioItaliaTV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#
 # Updated by TV on Sun Jan 28 2024 22:53:28 GMT+0100 (Central European Standard Time)
 
 # Updated by TV on Sun Feb 04 2024 00:43:44 GMT+0100 (Central European Standard Time)
