@@ -88,7 +88,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://dab88d35ef5b44ec99be60adef855bf2.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_Crime360/playlist.m3u8?ads.wurl_channel=393&ads.wurl_name=Crime360&ads.psid=%7BPSID%7D&ads.us_privacy=1YNY&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
 #
 # Afrobeats 24/7 TV
-#EXTINF:-1 group-title="Music" tvg-name="Afrobeats 24/7 TV" tvg-id="Afrobeats247TV.uk" tvg-logo="https://thumbs2.imgbox.com/38/a7/jL7PEgde_t.png",Afrobeats 24/7 TV
+#EXTINF:-1 group-title="Music" tvg-name="Afrobeats 24/7 TV" tvg-id="Afrobeats247TV.uk" tvg-logo="https://thumbs2.imgbox.com/ab/38/2BxO164L_t.png",Afrobeats 24/7 TV
 https://stream.ecable.tv/afrobeats/index.m3u8
 #
 # Radio 538 TV
@@ -287,7 +287,7 @@ https://25493.live.streamtheworld.com/OWR_INTERNATIONAL_ADP_SC?sbmid=fde807eb-69
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #
 # Club MTV
-#EXTINF:-1 group-title="Music" tvg-name="Club MTV" tvg-id="ClubMTV.uk" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Club_MTV_2021_DOG.svg/revision/latest/scale-to-width-down/1000?cb=20220308214810",Club MTV
+#EXTINF:-1 group-title="Music" tvg-name="Club MTV" tvg-id="ClubMTV.uk" tvg-logo="https://thumbs2.imgbox.com/57/95/aZTyNrCG_t.png",Club MTV
 http://easyip.xyz:80/pFAuGpC9/hZNmnGs/43496
 #
 # Paramount+ Picks
@@ -333,11 +333,11 @@ https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/6452c8cee1979
 # sample live link: https://w3g6c2u4.ssl.hwcdn.net/live/nova_stream1/playlist.m3u8
 #
 # Trace Africa
-#EXTINF:-1 group-title="Music" tvg-name="Trace Africa" tvg-id="TraceAfrica.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c6/Traceafrica2022.png/150px-Traceafrica2022.png",Trace Africa
+#EXTINF:-1 group-title="Music" tvg-name="Trace Africa" tvg-id="TraceAfrica.fr" tvg-logo="https://thumbs2.imgbox.com/6f/09/wiyPRyQT_t.png",Trace Africa
 http://easyip.xyz:80/pFAuGpC9/hZNmnGs/53322
 #
 # Trace Latina
-#EXTINF:-1 group-title="Music" tvg-name="Trace Latina" tvg-id="TraceLatina.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/06/Tracelatina2022.png?20230303164521",Trace Latina
+#EXTINF:-1 group-title="Music" tvg-name="Trace Latina" tvg-id="TraceLatina.fr" tvg-logo="https://thumbs2.imgbox.com/05/91/wKEXL8qr_t.png",Trace Latina
 http://easyip.xyz:80/pFAuGpC9/hZNmnGs/43595
 #
 # Updated by TV on Sun Jan 28 2024 22:53:28 GMT+0100 (Central European Standard Time)
