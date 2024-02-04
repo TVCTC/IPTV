@@ -364,6 +364,10 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 #EXTINF:-1 group-title="Music" tvg-name="RadioItaliaTV" tvg-id="RadioItaliaTV.it" tvg-logo="https://i.imgur.com/4VCEJuJ.png",RadioItaliaTV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #
+# Radio 105 TV
+#EXTINF:-1 group-title="Radio" tvg-name="Radio 105 TV" tvg-id="Radio105TV.it" tvg-logo="https://i.imgur.com/3NiLKvj.png",Radio 105 TV Ⓢ Ⓖ
+https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
+#
 # Updated by TV on Sun Jan 28 2024 22:53:28 GMT+0100 (Central European Standard Time)
 
 # Updated by TV on Sun Feb 04 2024 00:43:44 GMT+0100 (Central European Standard Time)
