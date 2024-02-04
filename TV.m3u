@@ -340,6 +340,22 @@ http://easyip.xyz:80/pFAuGpC9/hZNmnGs/53322
 #EXTINF:-1 group-title="Music" tvg-name="Trace Latina" tvg-id="TraceLatina.fr" tvg-logo="https://thumbs2.imgbox.com/05/91/wKEXL8qr_t.png",Trace Latina
 http://easyip.xyz:80/pFAuGpC9/hZNmnGs/43595
 #
+# Now 70s
+#EXTINF:-1 group-title="Music" tvg-name="Now 70s" tvg-id="Now70s.uk" tvg-logo="https://i.imgur.com/qiCCX5X.png",Now 70s
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+#
+# Now 80s
+#EXTINF:-1 group-title="Music" tvg-name="Now 80s" tvg-id="Now80s.uk" tvg-logo="https://i.imgur.com/8paz37m.png",Now 80s
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+#
+# Now Rock
+#EXTINF:-1 group-title="Music" tvg-name="Now Rock" tvg-id="NowRock.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png",Now Rock
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#
+# BBC Radio 1
+#EXTINF:-1 group-title="Radio" tvg-name="BBC Radio 1" tvg-id="BBCRadio1.uk" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1-epg.png",BBC Radio 1
+http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d96000.norewind.m3u8
+#
 # Updated by TV on Sun Jan 28 2024 22:53:28 GMT+0100 (Central European Standard Time)
 
 # Updated by TV on Sun Feb 04 2024 00:43:44 GMT+0100 (Central European Standard Time)
