@@ -372,10 +372,8 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
 #EXTINF:-1 group-title="Sport" tvg-name="UEFA TV" tvg-id="UEFA.tv" tvg-logo="https://thumbs2.imgbox.com/3c/60/osdmF5JE_t.png",UEFA TV
 https://dice-live-eu.akamaized.net/hls/live/2019584/258581-263161/exchange258581gwehm_258581_1640/chunklist-d.m3u8?hdntl=exp=1707496892~acl=%2f*~id=de3713f9-0215-4258-afbc-802740467313~data=hdntl,dWlkPUFSeG5xM3wyYzZmYzY5ZS1mZTkzLTQxYzktYjYwYy0yN2ViYTgwOTg3YmQmaXA9MjEzLjE0OS41Ni4xNjkmZXhwPTE3MDc0OTY5MjEmZWlkPTI1ODU4MSZjaWQ9ZGNlLnVlZmEmb2lkPTE5Ng~hmac=1c462169bc084d0dfb28b2c71649526a02eaf86666feb704b0152fd29a7960fb
 #
-# Updated by TV on Sun Jan 28 2024 22:53:28 GMT+0100 (Central European Standard Time)
-
-# Updated by TV on Sun Feb 04 2024 00:43:44 GMT+0100 (Central European Standard Time)
-
-# Updated by TV on Sun Feb 11 2024 23:02:36 GMT+0100 (Central European Standard Time)
-# Updated by TV on Fri Feb 16 2024 01:18:56 GMT+0100 (Central European Standard Time)
+# Sport Klub 3 (HR)
+#EXTINF:-1 group-title="Sport" tvg-name="Sport Klub 3 (HR)" tvg-id="SportKlub3.hr" tvg-logo="https://www.hrvatskitelekom.hr/webresources/images/maxtv-new/programi/250x250_sk3.png",Sport Klub 3 (HR)
+http://easyip.xyz:80/drTN6Trc/xMUu95P/49591
+#
 # Updated by TV on Mon Feb 19 2024 22:57:43 GMT+0100 (Central European Standard Time)
