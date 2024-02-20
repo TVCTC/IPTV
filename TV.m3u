@@ -70,10 +70,11 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 https://endpnt.com/hls/nasa4k/playlist.m3u8
 #
 # International Space Station on UStream
-# Web >> https://www.nasa.gov/multimedia/nasatv/iss_ustream.html
+# Web: https://www.nasa.gov/multimedia/nasatv/iss_ustream.html
+# Alt link: https://www.n2yo.com/space-station/
+# YouTube live: https://www.youtube.com/watch?v=P9C25Un7xaM
 #EXTINF:-1 group-title="Science" tvg-name="International Space Station on UStream" tvg-id="InternationalSpaceStation.us" tvg-logo="https://thumbs2.imgbox.com/4d/d5/NZVBUM7o_t.png",International Space Station on UStream
 http://iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8
-# alt link >> https://www.n2yo.com/space-station/
 #
 # ESA Web TV One
 #EXTINF:-1 group-title="Science" tvg-name="ESA Web TV One" tvg-id="ESAWebTVOne.int" tvg-logo="https://thumbs2.imgbox.com/b3/fa/yGoBOxzK_t.png",ESA Web TV One
