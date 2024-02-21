@@ -74,8 +74,9 @@ https://endpnt.com/hls/nasa4k/playlist.m3u8
 # Web: https://www.nasa.gov/multimedia/nasatv/iss_ustream.html
 # Alt link: https://www.n2yo.com/space-station/
 # YouTube live: https://www.youtube.com/watch?v=P9C25Un7xaM
+# Local link: http://192.168.1.111:1980/streamlink/?url=youtube.com/watch?v=P9C25Un7xaM
 #EXTINF:-1 group-title="Science" tvg-name="International Space Station (YouTube)" tvg-id="InternationalSpaceStation.youtube" tvg-logo="https://thumbs2.imgbox.com/4d/d5/NZVBUM7o_t.png",International Space Station (YouTube)
-http://192.168.1.111:1980/streamlink/?url=youtube.com/watch?v=P9C25Un7xaM
+https://t.ly/25Jx5
 #
 # ESA Web TV One
 #EXTINF:-1 group-title="Science" tvg-name="ESA Web TV One" tvg-id="ESAWebTVOne.int" tvg-logo="https://thumbs2.imgbox.com/b3/fa/yGoBOxzK_t.png",ESA Web TV One
