@@ -183,7 +183,7 @@ https://dai.google.com/linear/hls/event/6RPZlzksTCyB1euPqLcBZQ/master.m3u8
 # Web: https://spacechannel.com/
 # Vimeo video loop: https://player.vimeo.com/video/908320828?h=f517f0319b
 #EXTINF:-1 group-title="Science" tvg-name="Space Channel" tvg-id="SpaceChannel.com" tvg-logo="https://thumbs2.imgbox.com/64/ce/tDHwpEGT_t.png",Space Channel
-https://64vod-adaptive.akamaized.net/exp=1708502502~acl=%2F416a7c74-518f-4958-8c8a-f6bf69c1e767%2F%2A~hmac=62f345945e74feeb5584088c7cf5b15ffc9fbe253560901a08ab3512582dde5d/416a7c74-518f-4958-8c8a-f6bf69c1e767/sep/video/0218bee9,5975ca8b,97004d2a,98eb39ec,a99f32ae/master.m3u8?query_string_ranges=1
+https://t.ly/28XRw
 #
 # Earth TV
 #EXTINF:-1 group-title="Webcam" tvg-name="Earth TV" tvg-id="EarthTV.com" tvg-logo="https://thumbs2.imgbox.com/60/ca/XkZxn5EY_t.png",Earth TV
