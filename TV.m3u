@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://github.com/TVCTC/xmltv/raw/master/epg.xml.gz" refresh="1" billed-till="" billed-msg="Uskoro istječe probni period."
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"}
+#EXTHTTP:{"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"}
 #
 # Crime And Investigation
 #EXTINF:-1 group-title="Crime" tvg-name="Crime And Investigation" tvg-id="CrimeAndInvestigation.hr" tvg-logo="https://thumbs2.imgbox.com/eb/3e/FcRrkWbn_t.png",Crime And Investigation
