@@ -390,7 +390,7 @@ http://easyip.xyz:80/rAS589QP/egs8kHw/49612
 #
 # Radio 101
 #EXTINF:-1 group-title="Radio" tvg-name="Radio 101" tvg-id="Radio101.hr" tvg-logo="https://thumbs2.imgbox.com/39/84/SUO3nr71_t.png",Radio 101
-http://nsv9.tplinkdns.com:1980/radio101.php
+http://nsv9.tplinkdns.com:1980/ffmpeg.php?radio
 #
 # Updated by TV on Mon Feb 19 2024 22:57:43 GMT+0100 (Central European Standard Time)
 
