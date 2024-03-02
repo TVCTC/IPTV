@@ -388,6 +388,10 @@ http://easyip.xyz:80/rAS589QP/egs8kHw/49591
 #EXTINF:-1 group-title="Sport" tvg-name="Sport Klub HD" tvg-id="SportKlubHD.hr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sport_klub_rs_hd.png",Sport Klub HD
 http://easyip.xyz:80/rAS589QP/egs8kHw/49612
 #
+# Radio 101
+#EXTINF:-1 group-title="Radio" tvg-name="Radio 101" tvg-id="Radio101.hr" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcrd1-epg.png",Radio 101
+http://nsv9.tplinkdns.com:1980/radio101.php
+#
 # Updated by TV on Mon Feb 19 2024 22:57:43 GMT+0100 (Central European Standard Time)
 
 # Updated by TV on Fri Feb 23 2024 18:01:21 GMT+0100 (Central European Standard Time)
