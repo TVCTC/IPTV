@@ -224,7 +224,7 @@ https://livestreamserver.000webhostapp.com/olympicchannel/
 #
 # Gol.hr
 #EXTINF:-1 group-title="Sport" tvg-name="Gol.hr" tvg-id="Gol.hr" tvg-logo="https://thumbs2.imgbox.com/8b/cc/qbnYQKCJ_t.png",Gol.hr
-https://cdn.jwplayer.com/manifests/351dJNJd.m3u8?sig=8efce4cbf6cfb728a4ea550e2b70fde4&exp=1694462476
+http://nsv9.tplinkdns.com:1980/golhr.php
 #
 # Pluto TV True Crime
 #EXTINF:-1 group-title="Crime" tvg-name="Pluto TV True Crime" tvg-id="PlutoTVTrueCrime.us" tvg-logo="https://thumbs2.imgbox.com/6d/2c/Q7FQQLdz_t.png",Pluto TV True Crime
