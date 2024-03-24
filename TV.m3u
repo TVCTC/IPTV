@@ -200,7 +200,8 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #
 # CMC TV
 #EXTINF:-1 group-title="Music" tvg-name="CMC TV" tvg-id="CmcTV.hr" tvg-logo="https://thumbs2.imgbox.com/74/72/2CSwvE73_t.png",CMC TV
-https://stream.cmctv.hr:49998/cmc/live.m3u8
+http://easyip.xyz:80/zQdJMES5/bxZMbFp/49258
+# https://stream.cmctv.hr:49998/cmc/live.m3u8
 #
 # Klape i Tambure TV
 #EXTINF:-1 group-title="Music" tvg-name="Klape i Tambure TV" tvg-id="KitTV.hr" tvg-logo="https://thumbs2.imgbox.com/d9/2d/PFJKoUol_t.png",Klape i Tambure TV
